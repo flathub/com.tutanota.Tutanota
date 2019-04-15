@@ -48,11 +48,11 @@
         "url": "https://registry.npmjs.org/ajv/-/ajv-6.6.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha1/e8/6b",
-        "dest-filename": "819c602cf8821ad637413698f1dec021847a",
-        "sha1": "e86b819c602cf8821ad637413698f1dec021847a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/69/48",
+        "dest-filename": "dd4452126ee14e97410865cfbd7b815f669d1b0d980074e39fdf46c99b0f1533dbfce121f2572c437db5b1a4661b7590fff57a0ac5f1d5366c4f921c321b",
+        "sha512": "6948dd4452126ee14e97410865cfbd7b815f669d1b0d980074e39fdf46c99b0f1533dbfce121f2572c437db5b1a4661b7590fff57a0ac5f1d5366c4f921c321b",
         "type": "file",
-        "url": "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-3.2.0.tgz"
+        "url": "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-3.4.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/0c/d9",
@@ -125,25 +125,39 @@
         "url": "https://registry.npmjs.org/anymatch/-/anymatch-1.3.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/24/bf",
-        "dest-filename": "02e357bac8621c845b073ffab5e5a18d79d01a51a90b86457a111d18c5a7f1d3cb119e50e79640241082a35fb79d83fe22eecc2919ae8206fd735fd1a008",
-        "sha512": "24bf02e357bac8621c845b073ffab5e5a18d79d01a51a90b86457a111d18c5a7f1d3cb119e50e79640241082a35fb79d83fe22eecc2919ae8206fd735fd1a008",
+        "dest": "npm-cache/_cacache/content-v2/sha512/1b/41",
+        "dest-filename": "1eeb191bc55f9fbccffbc575888120e35800f813f77f68d6f17ababf4d5b02c8121abbfd153e6ac4a8133266fd0d6d3c0b0d6e5a17fc871bed19118efb90",
+        "sha512": "1b411eeb191bc55f9fbccffbc575888120e35800f813f77f68d6f17ababf4d5b02c8121abbfd153e6ac4a8133266fd0d6d3c0b0d6e5a17fc871bed19118efb90",
         "type": "file",
-        "url": "https://registry.npmjs.org/app-builder-bin/-/app-builder-bin-2.6.3.tgz"
+        "url": "https://registry.npmjs.org/app-builder-bin/-/app-builder-bin-2.6.6.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/bd/58",
-        "dest-filename": "0cf5df6dc30961afef2f34024e003f5dc9505193badeb956b5044d4e9af6876f533e7d2f0aa6f703295741a97f4a0c7cbbcd2739ee69c870781ac78fd730",
-        "sha512": "bd580cf5df6dc30961afef2f34024e003f5dc9505193badeb956b5044d4e9af6876f533e7d2f0aa6f703295741a97f4a0c7cbbcd2739ee69c870781ac78fd730",
+        "dest": "npm-cache/_cacache/content-v2/sha512/48/06",
+        "dest-filename": "dfb9af3e2f7a456d0a77405a4a5743f31c93c9a9ea5139e5ff14fadf74bd36cf1970f8154e7ba29f0b7f9457a5d4a266d6bd53c6f92c06f79eaf7c8c7f0b",
+        "sha512": "4806dfb9af3e2f7a456d0a77405a4a5743f31c93c9a9ea5139e5ff14fadf74bd36cf1970f8154e7ba29f0b7f9457a5d4a266d6bd53c6f92c06f79eaf7c8c7f0b",
         "type": "file",
-        "url": "https://registry.npmjs.org/app-builder-lib/-/app-builder-lib-20.38.5.tgz"
+        "url": "https://registry.npmjs.org/app-builder-lib/-/app-builder-lib-20.40.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/fa/27",
-        "dest-filename": "92e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
-        "sha512": "fa2792e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
         "type": "file",
-        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.1.1.tgz"
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d9/39",
+        "dest-filename": "1e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "sha512": "d9391e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "type": "file",
+        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.2.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/a5/80",
@@ -153,11 +167,25 @@
         "url": "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz"
     },
     {
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
+    },
+    {
         "dest": "npm-cache/_cacache/content-v2/sha512/44/1b",
         "dest-filename": "66b28ea5da609a12c52f5e780c4c88e0de885e5e8d0c818cf37d3eac938e1162080f9e6f5f4fe7102409b3467248c4f1d783d159825a832465b6f1dbdca8",
         "sha512": "441b66b28ea5da609a12c52f5e780c4c88e0de885e5e8d0c818cf37d3eac938e1162080f9e6f5f4fe7102409b3467248c4f1d783d159825a832465b6f1dbdca8",
         "type": "file",
         "url": "https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-4.0.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/bb/dd",
+        "dest-filename": "e46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "sha512": "bbdde46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "type": "file",
+        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.4.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/b6/0a",
@@ -167,11 +195,25 @@
         "url": "https://registry.npmjs.org/ms/-/ms-2.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/ff/90",
+        "dest-filename": "8c3774f44785d38f80dc19a7b1a3eae8652752156ff400e39344eae3c73086d70ad65c4b066d129ebe39482fe643138b19949af9103e185b4caa9a42be78",
+        "sha512": "ff908c3774f44785d38f80dc19a7b1a3eae8652752156ff400e39344eae3c73086d70ad65c4b066d129ebe39482fe643138b19949af9103e185b4caa9a42be78",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/normalize-package-data/-/normalize-package-data-2.5.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "type": "file",
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d1/47",
+        "dest-filename": "b053ef6b15aa4a16795b8ab2e2ddbca83ae86b4ac962ff3fe284d9ef336e2f805fbcb0d0622352d93c1487f7024a5306946f0facde14e80cb09792b821ad",
+        "sha512": "d147b053ef6b15aa4a16795b8ab2e2ddbca83ae86b4ac962ff3fe284d9ef336e2f805fbcb0d0622352d93c1487f7024a5306946f0facde14e80cb09792b821ad",
+        "type": "file",
+        "url": "https://registry.npmjs.org/semver/-/semver-6.0.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/a3/94",
@@ -326,6 +368,13 @@
         "sha1": "63fd43f7dc1e3bb7ce35947db8fe369a3f58c74b",
         "type": "file",
         "url": "https://registry.npmjs.org/babel-code-frame/-/babel-code-frame-6.26.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha1/a8/11",
+        "dest-filename": "5c55e4a702fe4d150abd3872822a7e09fc98",
+        "sha1": "a8115c55e4a702fe4d150abd3872822a7e09fc98",
+        "type": "file",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/ea/3c",
@@ -965,11 +1014,11 @@
         "url": "https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/71/69",
-        "dest-filename": "7fd3f43ce7595eb0c997a75223ade7805f5400580f5efa2536213eb5a21f82bcc6099c3c1aa369bd6421da9a6770db3965af05aee1f382de0bec6ffc8e0b",
-        "sha512": "71697fd3f43ce7595eb0c997a75223ade7805f5400580f5efa2536213eb5a21f82bcc6099c3c1aa369bd6421da9a6770db3965af05aee1f382de0bec6ffc8e0b",
+        "dest": "npm-cache/_cacache/content-v2/sha512/b7/1a",
+        "dest-filename": "736087ae1c58eb39058f4c90ef849622b0854625d486f69a5c704fb2eda813d183610655471a777cf878054da8d8137e31cc1e737f5ff3c62883a92292a4",
+        "sha512": "b71a736087ae1c58eb39058f4c90ef849622b0854625d486f69a5c704fb2eda813d183610655471a777cf878054da8d8137e31cc1e737f5ff3c62883a92292a4",
         "type": "file",
-        "url": "https://registry.npmjs.org/builder-util/-/builder-util-9.6.2.tgz"
+        "url": "https://registry.npmjs.org/builder-util/-/builder-util-9.7.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/55/3d",
@@ -979,11 +1028,25 @@
         "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/fa/27",
-        "dest-filename": "92e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
-        "sha512": "fa2792e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
         "type": "file",
-        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.1.1.tgz"
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d9/39",
+        "dest-filename": "1e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "sha512": "d9391e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "type": "file",
+        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.2.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/32/d8",
@@ -1000,6 +1063,13 @@
         "url": "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz"
     },
     {
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
+    },
+    {
         "dest": "npm-cache/_cacache/content-v2/sha512/b6/0a",
         "dest-filename": "7e765e5c1a4dbcbad624b41b2b16a03b1ca82b8603ec83a67f11f856238825d47c2af01fc6998ff4a1767a9c5f210d57ac4bf1699d8683fe439685842fca",
         "sha512": "b60a7e765e5c1a4dbcbad624b41b2b16a03b1ca82b8603ec83a67f11f856238825d47c2af01fc6998ff4a1767a9c5f210d57ac4bf1699d8683fe439685842fca",
@@ -1014,11 +1084,11 @@
         "url": "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/61/f4",
-        "dest-filename": "37b501532bfcb394626e5fca53c1ae2d89f423e104b6323ed47a03aef23033e7d32a2223063d7c5085542220c3736b2b94485fe312e5677c517926ac9b99",
-        "sha512": "61f437b501532bfcb394626e5fca53c1ae2d89f423e104b6323ed47a03aef23033e7d32a2223063d7c5085542220c3736b2b94485fe312e5677c517926ac9b99",
+        "dest": "npm-cache/_cacache/content-v2/sha512/e2/1d",
+        "dest-filename": "8f6efcb2d79104d361be24e6695029aa589baaaecfac124cdec139bef813e2ec7be7fc7c1ca8b01c371600c88d31d770a93cf9fe90c8e5fa1a655cc1c84d",
+        "sha512": "e21d8f6efcb2d79104d361be24e6695029aa589baaaecfac124cdec139bef813e2ec7be7fc7c1ca8b01c371600c88d31d770a93cf9fe90c8e5fa1a655cc1c84d",
         "type": "file",
-        "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.10.tgz"
+        "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.12.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/42/35",
@@ -1133,11 +1203,25 @@
         "url": "https://registry.npmjs.org/center-align/-/center-align-0.1.3.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha1/a8/11",
-        "dest-filename": "5c55e4a702fe4d150abd3872822a7e09fc98",
-        "sha1": "a8115c55e4a702fe4d150abd3872822a7e09fc98",
+        "dest": "npm-cache/_cacache/content-v2/sha512/32/d8",
+        "dest-filename": "be7fd96924d730178b5657cfcead34ed1758198be7fc16a97201da2eada95c156150585dbe3600874a18e409bf881412eaf5bb99c04d71724414e29792b9",
+        "sha512": "32d8be7fd96924d730178b5657cfcead34ed1758198be7fc16a97201da2eada95c156150585dbe3600874a18e409bf881412eaf5bb99c04d71724414e29792b9",
         "type": "file",
-        "url": "http://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz"
+        "url": "https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/55/3d",
+        "dest-filename": "1923a91945d4e1f18c89c3748c6d89bfbbe36a7ec03112958ed0f7fdb2af3f7bde16c713a93cac7d151d459720ad3950cd390fbc9ed96a17189173eaf9a8",
+        "sha512": "553d1923a91945d4e1f18c89c3748c6d89bfbbe36a7ec03112958ed0f7fdb2af3f7bde16c713a93cac7d151d459720ad3950cd390fbc9ed96a17189173eaf9a8",
+        "type": "file",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/42/35",
+        "dest-filename": "63c1d5c8b78d3c308880a825f8a142ac814d84a801b3b363e9926e1a4186e39be644584716e127c5353af8b8c35999ad1ecb87f99602eb901d1a5f440ca3",
+        "sha512": "423563c1d5c8b78d3c308880a825f8a142ac814d84a801b3b363e9926e1a4186e39be644584716e127c5353af8b8c35999ad1ecb87f99602eb901d1a5f440ca3",
+        "type": "file",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/5f/e7",
@@ -1259,11 +1343,11 @@
         "url": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.7.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/ea/db",
-        "dest-filename": "c038ef83e8e10dbd1021e76e0387d8dc7ca4d80d002abea7b36c25bcdb18f95f4a52adca71b6f44a1cb1b4c8163a483ecf483ac96a3fb402239c2957755e",
-        "sha512": "eadbc038ef83e8e10dbd1021e76e0387d8dc7ca4d80d002abea7b36c25bcdb18f95f4a52adca71b6f44a1cb1b4c8163a483ecf483ac96a3fb402239c2957755e",
+        "dest": "npm-cache/_cacache/content-v2/sha512/ee/3d",
+        "dest-filename": "b2fb8d30eb5cf2e980b689136951efcdc21372a17ad8a4732b4ae9da306eb89d19da7fdeb33bf28c411e0ec8dfd49c4e4a2f21019ca1dde1a1b7aec923a5",
+        "sha512": "ee3db2fb8d30eb5cf2e980b689136951efcdc21372a17ad8a4732b4ae9da306eb89d19da7fdeb33bf28c411e0ec8dfd49c4e4a2f21019ca1dde1a1b7aec923a5",
         "type": "file",
-        "url": "https://registry.npmjs.org/commander/-/commander-2.19.0.tgz"
+        "url": "https://registry.npmjs.org/commander/-/commander-2.20.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/01/62",
@@ -1532,11 +1616,32 @@
         "url": "https://registry.npmjs.org/detect-node/-/detect-node-2.0.4.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/11/a1",
-        "dest-filename": "2417cc1e5decf7880c2061f7e37187ee99ab94879c7e06080c827fc8ba284d200e7f59fcd1014478c0cabd688236cf002b970fab22b5fa64729b9ad91098",
-        "sha512": "11a12417cc1e5decf7880c2061f7e37187ee99ab94879c7e06080c827fc8ba284d200e7f59fcd1014478c0cabd688236cf002b970fab22b5fa64729b9ad91098",
+        "dest": "npm-cache/_cacache/content-v2/sha512/68/86",
+        "dest-filename": "e9406ddeb3e8074c5b6c0501387e649854ceb4c9ec31259b0de8586402602635aa0ee396c440d259b115f4604e3dfa29a2482f769899850043fa88a1344e",
+        "sha512": "6886e9406ddeb3e8074c5b6c0501387e649854ceb4c9ec31259b0de8586402602635aa0ee396c440d259b115f4604e3dfa29a2482f769899850043fa88a1344e",
         "type": "file",
-        "url": "https://registry.npmjs.org/dmg-builder/-/dmg-builder-6.5.4.tgz"
+        "url": "https://registry.npmjs.org/dmg-builder/-/dmg-builder-6.6.1.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/bf/73",
@@ -1602,67 +1707,67 @@
         "url": "https://registry.npmjs.org/ejs/-/ejs-2.6.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/14/e0",
-        "dest-filename": "4920792ebfcc1cd7937e672ab00f33dabd856ee421cc0447f5e231c35afed05b6be4108a498d52be3c84f7d647d97ef8ec20fd23db0bc0fc506c8aa07ba7",
-        "sha512": "14e04920792ebfcc1cd7937e672ab00f33dabd856ee421cc0447f5e231c35afed05b6be4108a498d52be3c84f7d647d97ef8ec20fd23db0bc0fc506c8aa07ba7",
+        "dest": "npm-cache/_cacache/content-v2/sha512/31/e9",
+        "dest-filename": "4e8e7b49bdddf78b312347a1f837f5228bbcb9df9cff6f606e6172462cd4872faa35225ca151099f893f3b9160016b211181eb9811182fb327fde7a38e17",
+        "sha512": "31e94e8e7b49bdddf78b312347a1f837f5228bbcb9df9cff6f606e6172462cd4872faa35225ca151099f893f3b9160016b211181eb9811182fb327fde7a38e17",
         "type": "file",
-        "url": "https://registry.npmjs.org/electron/-/electron-4.0.8.tgz"
+        "url": "https://registry.npmjs.org/electron/-/electron-4.1.4.tgz"
     },
     {
         "dest": "npm-cache",
         "only-arches": [
             "i386"
         ],
-        "sha256": "ae1c6f3b1e6449e6ee073518b4a66fe0c7d05e455f9f232032debca528b22124",
+        "sha256": "294791e76e7024664ef5cb2b99b3d1c3575c7f8fd0feaddb3e0cf1560bca377c",
         "type": "file",
-        "url": "https://github.com/electron/electron/releases/download/v4.0.8/electron-v4.0.8-linux-ia32.zip"
+        "url": "https://github.com/electron/electron/releases/download/v4.1.4/electron-v4.1.4-linux-ia32.zip"
     },
     {
         "dest": "npm-cache",
         "only-arches": [
             "x86_64"
         ],
-        "sha256": "f4d0475dae2ff615cdd9423d8cf9aae8b62d83f64c83e26e867ffa6ba90117a9",
+        "sha256": "c62add4ae9811abaab0306f6d595f17511b4275f08a6f12c81a429758fc19e16",
         "type": "file",
-        "url": "https://github.com/electron/electron/releases/download/v4.0.8/electron-v4.0.8-linux-x64.zip"
+        "url": "https://github.com/electron/electron/releases/download/v4.1.4/electron-v4.1.4-linux-x64.zip"
     },
     {
         "dest": "npm-cache",
         "only-arches": [
             "arm"
         ],
-        "sha256": "fba21c14f0672cfbf0571b2c3dbb83c3f9ec4fcc9e7235a84b3413f7022225b0",
+        "sha256": "78358eced73a07b3ca92bfec138b1b3141158b376d13366dc70d2701cd4aacb5",
         "type": "file",
-        "url": "https://github.com/electron/electron/releases/download/v4.0.8/electron-v4.0.8-linux-armv7l.zip"
+        "url": "https://github.com/electron/electron/releases/download/v4.1.4/electron-v4.1.4-linux-armv7l.zip"
     },
     {
         "dest": "npm-cache",
         "only-arches": [
             "aarch64"
         ],
-        "sha256": "837b89a082f67b55d05b54dc09048547882915c90c0638b4051578adf2542bf5",
+        "sha256": "ba8fc16097fd8eff340532f44b4782c6e4acc9f851f29a1f888222cde92c0a62",
         "type": "file",
-        "url": "https://github.com/electron/electron/releases/download/v4.0.8/electron-v4.0.8-linux-arm64.zip"
+        "url": "https://github.com/electron/electron/releases/download/v4.1.4/electron-v4.1.4-linux-arm64.zip"
     },
     {
         "dest": "npm-cache",
-        "dest-filename": "SHASUMS256.txt-4.0.8",
+        "dest-filename": "SHASUMS256.txt-4.1.4",
         "type": "file",
-        "url": "data:ae1c6f3b1e6449e6ee073518b4a66fe0c7d05e455f9f232032debca528b22124%20%2Aelectron-v4.0.8-linux-ia32.zip%0Af4d0475dae2ff615cdd9423d8cf9aae8b62d83f64c83e26e867ffa6ba90117a9%20%2Aelectron-v4.0.8-linux-x64.zip%0Afba21c14f0672cfbf0571b2c3dbb83c3f9ec4fcc9e7235a84b3413f7022225b0%20%2Aelectron-v4.0.8-linux-armv7l.zip%0A837b89a082f67b55d05b54dc09048547882915c90c0638b4051578adf2542bf5%20%2Aelectron-v4.0.8-linux-arm64.zip%0A"
+        "url": "data:294791e76e7024664ef5cb2b99b3d1c3575c7f8fd0feaddb3e0cf1560bca377c%20%2Aelectron-v4.1.4-linux-ia32.zip%0Ac62add4ae9811abaab0306f6d595f17511b4275f08a6f12c81a429758fc19e16%20%2Aelectron-v4.1.4-linux-x64.zip%0A78358eced73a07b3ca92bfec138b1b3141158b376d13366dc70d2701cd4aacb5%20%2Aelectron-v4.1.4-linux-armv7l.zip%0Aba8fc16097fd8eff340532f44b4782c6e4acc9f851f29a1f888222cde92c0a62%20%2Aelectron-v4.1.4-linux-arm64.zip%0A"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/9e/ca",
-        "dest-filename": "9337acd4726f71b5d26233d3af389e4417490e23c7f566eba0dbb3bfae0b710912471aa9dc4967c231950ff39d9d08a3ec0ec6171af061c5f4630c1905e5",
-        "sha512": "9eca9337acd4726f71b5d26233d3af389e4417490e23c7f566eba0dbb3bfae0b710912471aa9dc4967c231950ff39d9d08a3ec0ec6171af061c5f4630c1905e5",
+        "dest": "npm-cache/_cacache/content-v2/sha512/0d/3d",
+        "dest-filename": "b9c57fd88323ca88714ea4db8034840856f604c0259780ada3618c2a81a32b604ebeb6af83b66330943dddae5e8325b530b652039e7d1deed227fc46d706",
+        "sha512": "0d3db9c57fd88323ca88714ea4db8034840856f604c0259780ada3618c2a81a32b604ebeb6af83b66330943dddae5e8325b530b652039e7d1deed227fc46d706",
         "type": "file",
-        "url": "https://registry.npmjs.org/@types/node/-/node-10.12.30.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-10.14.4.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/a7/cf",
-        "dest-filename": "080c7847d89e2103a2b0441258f8e7d566e16d1484a1637521fd3c1801f6d7d2fd5184a672b6e19d3bcb2dcb6cdc5b10d85fbe310c1bfe5fda0deaa10845",
-        "sha512": "a7cf080c7847d89e2103a2b0441258f8e7d566e16d1484a1637521fd3c1801f6d7d2fd5184a672b6e19d3bcb2dcb6cdc5b10d85fbe310c1bfe5fda0deaa10845",
+        "dest": "npm-cache/_cacache/content-v2/sha512/86/79",
+        "dest-filename": "c1cf22d79daf96a664f8308a1655d4658b8dead3dcaa28e8333c98f42ab3a8259ed322863569848fbd283c54be6b4ae4e07405862f8ad877dcdcab761731",
+        "sha512": "8679c1cf22d79daf96a664f8308a1655d4658b8dead3dcaa28e8333c98f42ab3a8259ed322863569848fbd283c54be6b4ae4e07405862f8ad877dcdcab761731",
         "type": "file",
-        "url": "https://registry.npmjs.org/electron-builder/-/electron-builder-20.38.5.tgz"
+        "url": "https://registry.npmjs.org/electron-builder/-/electron-builder-20.40.2.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/ed/03",
@@ -1679,11 +1784,25 @@
         "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/fa/27",
-        "dest-filename": "92e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
-        "sha512": "fa2792e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
         "type": "file",
-        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.1.1.tgz"
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d9/39",
+        "dest-filename": "1e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "sha512": "d9391e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "type": "file",
+        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.2.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/32/d8",
@@ -1700,6 +1819,13 @@
         "url": "https://registry.npmjs.org/cliui/-/cliui-4.1.0.tgz"
     },
     {
+        "dest": "npm-cache/_cacache/content-v2/sha512/9c/ea",
+        "dest-filename": "87e7d75e0aaf52447971ab5030f39267b78c3a2af2caa9656293aa00f599255cb3483a5aa0e05db2ad3d4c55a4e302abd5c1d7de67bc3b682bc90fbba093",
+        "sha512": "9cea87e7d75e0aaf52447971ab5030f39267b78c3a2af2caa9656293aa00f599255cb3483a5aa0e05db2ad3d4c55a4e302abd5c1d7de67bc3b682bc90fbba093",
+        "type": "file",
+        "url": "https://registry.npmjs.org/string-width/-/string-width-2.1.1.tgz"
+    },
+    {
         "dest": "npm-cache/_cacache/content-v2/sha512/a5/80",
         "dest-filename": "08cde468f09e8a3c4689d1558e8793f391bc3f45eb6ecde84633b411457e617b87cf1f1dab74a301db9e9e8490a45fe5d1426d7a7992ea2cd4bc45265767",
         "sha512": "a58008cde468f09e8a3c4689d1558e8793f391bc3f45eb6ecde84633b411457e617b87cf1f1dab74a301db9e9e8490a45fe5d1426d7a7992ea2cd4bc45265767",
@@ -1714,11 +1840,25 @@
         "url": "https://registry.npmjs.org/find-up/-/find-up-3.0.0.tgz"
     },
     {
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
+    },
+    {
         "dest": "npm-cache/_cacache/content-v2/sha1/a3/b3",
         "dest-filename": "0a5c4f199183167aaab93beefae3ddfb654f",
         "sha1": "a3b30a5c4f199183167aaab93beefae3ddfb654f",
         "type": "file",
         "url": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/bb/dd",
+        "dest-filename": "e46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "sha512": "bbdde46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "type": "file",
+        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.4.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/b6/0a",
@@ -1728,11 +1868,25 @@
         "url": "https://registry.npmjs.org/ms/-/ms-2.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/9c/ea",
-        "dest-filename": "87e7d75e0aaf52447971ab5030f39267b78c3a2af2caa9656293aa00f599255cb3483a5aa0e05db2ad3d4c55a4e302abd5c1d7de67bc3b682bc90fbba093",
-        "sha512": "9cea87e7d75e0aaf52447971ab5030f39267b78c3a2af2caa9656293aa00f599255cb3483a5aa0e05db2ad3d4c55a4e302abd5c1d7de67bc3b682bc90fbba093",
+        "dest": "npm-cache/_cacache/content-v2/sha512/bd/a7",
+        "dest-filename": "dcbfa2a3559292833d3aa0cfc7e860c1ac0b73f2f76141a9068c522f36b1c0eb2dc7085d422272f2f902eaf1d4c93d0d5bf8a0d4a8315cb647515b8e1ed7",
+        "sha512": "bda7dcbfa2a3559292833d3aa0cfc7e860c1ac0b73f2f76141a9068c522f36b1c0eb2dc7085d422272f2f902eaf1d4c93d0d5bf8a0d4a8315cb647515b8e1ed7",
         "type": "file",
-        "url": "https://registry.npmjs.org/string-width/-/string-width-2.1.1.tgz"
+        "url": "https://registry.npmjs.org/string-width/-/string-width-3.1.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d5/aa",
+        "dest-filename": "5e3df5ccd54392ab0d28f48885028bd5cfd3394b50e0fb84eb0f07cc7b043aa7fae632e79beed5998d0d6bc782e8cb502b060828a86a5faaa748e2ba2776",
+        "sha512": "d5aa5e3df5ccd54392ab0d28f48885028bd5cfd3394b50e0fb84eb0f07cc7b043aa7fae632e79beed5998d0d6bc782e8cb502b060828a86a5faaa748e2ba2776",
+        "type": "file",
+        "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-4.1.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/0e/e4",
+        "dest-filename": "6cd6029b06ab0c288665adf7f096e83c30791c9e98ece553e62f53c087e980df45340d3a2d7c3674776514b17a4f98f98c309e96efbdcc680dc9fa56e258",
+        "sha512": "0ee46cd6029b06ab0c288665adf7f096e83c30791c9e98ece553e62f53c087e980df45340d3a2d7c3674776514b17a4f98f98c309e96efbdcc680dc9fa56e258",
+        "type": "file",
+        "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.2.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/a8/47",
@@ -1749,11 +1903,11 @@
         "url": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/2e/1c",
-        "dest-filename": "fc4cb6989f1abfd8e6ea1c3aa5f1d5fc0898bdee81f1ae351c62dcca6dbca43ed556f5607ea68c48f8d336508cec32034265321fd00430b232b9c8c02a67",
-        "sha512": "2e1cfc4cb6989f1abfd8e6ea1c3aa5f1d5fc0898bdee81f1ae351c62dcca6dbca43ed556f5607ea68c48f8d336508cec32034265321fd00430b232b9c8c02a67",
+        "dest": "npm-cache/_cacache/content-v2/sha512/5b/21",
+        "dest-filename": "28c60c930f7c395d1a4040d61407dc9c547fcf42b4e86935dd61745d397bc4cb5975f5bafe549b1cd2f70ef0f4c6839ae8fe5fc663b17f24c101988d01c4",
+        "sha512": "5b2128c60c930f7c395d1a4040d61407dc9c547fcf42b4e86935dd61745d397bc4cb5975f5bafe549b1cd2f70ef0f4c6839ae8fe5fc663b17f24c101988d01c4",
         "type": "file",
-        "url": "https://registry.npmjs.org/yargs/-/yargs-12.0.5.tgz"
+        "url": "https://registry.npmjs.org/yargs/-/yargs-13.2.2.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/16/31",
@@ -1847,18 +2001,11 @@
         "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/5c/7a",
-        "dest-filename": "03aa01bdd0d1817e0509dcd70e9842c0baf1ee70e218ce2ec08592880bc162bd1478e4f0ecd295d27f9dcea935d73a474bff5c52bdea20bc92e3289c2401",
-        "sha512": "5c7a03aa01bdd0d1817e0509dcd70e9842c0baf1ee70e218ce2ec08592880bc162bd1478e4f0ecd295d27f9dcea935d73a474bff5c52bdea20bc92e3289c2401",
+        "dest": "npm-cache/_cacache/content-v2/sha512/dc/3a",
+        "dest-filename": "e0730f0e10e3f73ecc3f3e9ae5a001494a449449082352adc09967df2460772a3e565e6665e80dc6394b3c693edb3fff065a0e2862a4a20929c0e4f42475",
+        "sha512": "dc3ae0730f0e10e3f73ecc3f3e9ae5a001494a449449082352adc09967df2460772a3e565e6665e80dc6394b3c693edb3fff065a0e2862a4a20929c0e4f42475",
         "type": "file",
-        "url": "https://registry.npmjs.org/electron-packager/-/electron-packager-13.1.0.tgz"
-    },
-    {
-        "dest": "npm-cache/_cacache/content-v2/sha512/7d/aa",
-        "dest-filename": "b066a9d6c5bc67f85d5ddfdf7281e6a640dcb794fa7f1fd1faacdaea621e054950ad718fb772e6f533103ca3d983779e6633c02086ebbf92ec9803a553b0",
-        "sha512": "7daab066a9d6c5bc67f85d5ddfdf7281e6a640dcb794fa7f1fd1faacdaea621e054950ad718fb772e6f533103ca3d983779e6633c02086ebbf92ec9803a553b0",
-        "type": "file",
-        "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.0.0.tgz"
+        "url": "https://registry.npmjs.org/electron-packager/-/electron-packager-13.1.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/a5/80",
@@ -1882,25 +2029,18 @@
         "url": "https://registry.npmjs.org/pify/-/pify-4.0.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/c3/62",
-        "dest-filename": "d78e82fca1175140dfa13b2a69b97b3e57f7d5018b6972b47166e17b2adfce73e26bdae01c567b5a513353eb0e6286859f143a4d63c08fc7542c93167fa7",
-        "sha512": "c362d78e82fca1175140dfa13b2a69b97b3e57f7d5018b6972b47166e17b2adfce73e26bdae01c567b5a513353eb0e6286859f143a4d63c08fc7542c93167fa7",
+        "dest": "npm-cache/_cacache/content-v2/sha512/9a/48",
+        "dest-filename": "edb0881fb51b33b93ffc768f13b3399d7689039eedb9e0ec9378bf2713bf34a3f03cb7af285c7673be54c9e0043cb81398ac0f3b2433bf0450968e7540ac",
+        "sha512": "9a48edb0881fb51b33b93ffc768f13b3399d7689039eedb9e0ec9378bf2713bf34a3f03cb7af285c7673be54c9e0043cb81398ac0f3b2433bf0450968e7540ac",
         "type": "file",
-        "url": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-13.0.0.tgz"
-    },
-    {
-        "dest": "npm-cache/_cacache/content-v2/sha512/12/17",
-        "dest-filename": "4f9bab749ca0df6b4af72a357591215ccf4dd5af380946feefe671e492941907a3929833651eaee4eba341c1084f2b78b808afaebde8658d900fdbcbdb08",
-        "sha512": "12174f9bab749ca0df6b4af72a357591215ccf4dd5af380946feefe671e492941907a3929833651eaee4eba341c1084f2b78b808afaebde8658d900fdbcbdb08",
-        "type": "file",
-        "url": "https://registry.npmjs.org/electron-publish/-/electron-publish-20.38.5.tgz"
+        "url": "https://registry.npmjs.org/electron-publish/-/electron-publish-20.40.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/55/3d",
@@ -1910,11 +2050,25 @@
         "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/fa/27",
-        "dest-filename": "92e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
-        "sha512": "fa2792e0f301df7bd51364b764d581110275cca980b3f6a0ac1761ed769d13594a2e3ac7e1a5d8b8e87d38e19dc6a21195d86584d05a17ec8a30c10539d3558a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
         "type": "file",
-        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.1.1.tgz"
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/d9/39",
+        "dest-filename": "1e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "sha512": "d9391e4dc23d6c394ae5acd1652249371840816d432be258de31cad1458fc6025c6a7e0665254334d3b7b179ed371ae9f8901d3c7305d78af335dfc6e7796fab",
+        "type": "file",
+        "url": "https://registry.npmjs.org/builder-util-runtime/-/builder-util-runtime-8.2.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/32/d8",
@@ -1931,11 +2085,25 @@
         "url": "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/8a/40",
-        "dest-filename": "5c5b0caa5d04872ad72209c72dbbd61f3db158678fa06c712613443c8f37136108397470abde0db0c006633e825f4155d9aba297023a573937f9fdc8d3ef",
-        "sha512": "8a405c5b0caa5d04872ad72209c72dbbd61f3db158678fa06c712613443c8f37136108397470abde0db0c006633e825f4155d9aba297023a573937f9fdc8d3ef",
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
         "type": "file",
-        "url": "https://registry.npmjs.org/mime/-/mime-2.4.0.tgz"
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/bb/dd",
+        "dest-filename": "e46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "sha512": "bbdde46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "type": "file",
+        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/cc/90",
+        "dest-filename": "5f64393046efa3dcf75dd9a1ec47919f1f68c85a198bd59cc1a1cf97fb7244b62da16c0ad673227ed65682d43dbf53f5b56bff827a08f4fce9c4536c9b8e",
+        "sha512": "cc905f64393046efa3dcf75dd9a1ec47919f1f68c85a198bd59cc1a1cf97fb7244b62da16c0ad673227ed65682d43dbf53f5b56bff827a08f4fce9c4536c9b8e",
+        "type": "file",
+        "url": "https://registry.npmjs.org/mime/-/mime-2.4.2.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/b6/0a",
@@ -1959,11 +2127,11 @@
         "url": "https://registry.npmjs.org/electron-updater/-/electron-updater-4.0.7.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/52/38",
@@ -1973,11 +2141,18 @@
         "url": "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/61/f4",
-        "dest-filename": "37b501532bfcb394626e5fca53c1ae2d89f423e104b6323ed47a03aef23033e7d32a2223063d7c5085542220c3736b2b94485fe312e5677c517926ac9b99",
-        "sha512": "61f437b501532bfcb394626e5fca53c1ae2d89f423e104b6323ed47a03aef23033e7d32a2223063d7c5085542220c3736b2b94485fe312e5677c517926ac9b99",
+        "dest": "npm-cache/_cacache/content-v2/sha512/e2/1d",
+        "dest-filename": "8f6efcb2d79104d361be24e6695029aa589baaaecfac124cdec139bef813e2ec7be7fc7c1ca8b01c371600c88d31d770a93cf9fe90c8e5fa1a655cc1c84d",
+        "sha512": "e21d8f6efcb2d79104d361be24e6695029aa589baaaecfac124cdec139bef813e2ec7be7fc7c1ca8b01c371600c88d31d770a93cf9fe90c8e5fa1a655cc1c84d",
         "type": "file",
-        "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.10.tgz"
+        "url": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.12.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/0b/00",
+        "dest-filename": "4b444210ecbbd8141d16c91bf086ae4de6a3e173a3cc8c3e9b620805948e58c83825fb4bf1ab95476cc385a8b83b85f5b39aef13e59d50a1f8664c8848b4",
+        "sha512": "0b004b444210ecbbd8141d16c91bf086ae4de6a3e173a3cc8c3e9b620805948e58c83825fb4bf1ab95476cc385a8b83b85f5b39aef13e59d50a1f8664c8848b4",
+        "type": "file",
+        "url": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-7.0.3.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/ad/3f",
@@ -2414,11 +2589,11 @@
         "url": "https://registry.npmjs.org/ms/-/ms-2.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/de/de",
-        "dest-filename": "ab553a1ea197d848677c6282c54760c992242b22252b19c8ef157da60f0ddb9fa9363adc073744cd08b6c13bec3ca93be29a10e4bfe2d2b1c6c9635bc4eb",
-        "sha512": "dedeab553a1ea197d848677c6282c54760c992242b22252b19c8ef157da60f0ddb9fa9363adc073744cd08b6c13bec3ca93be29a10e4bfe2d2b1c6c9635bc4eb",
+        "dest": "npm-cache/_cacache/content-v2/sha512/0f/21",
+        "dest-filename": "4fdc133fdd81d340e0942ffc343991d1d25a4a786af1a2d70759ca8d11d9e5b6a1705d57e110143de1e228df801f429a34ac6922e1cc8889fb58d3a87616",
+        "sha512": "0f214fdc133fdd81d340e0942ffc343991d1d25a4a786af1a2d70759ca8d11d9e5b6a1705d57e110143de1e228df801f429a34ac6922e1cc8889fb58d3a87616",
         "type": "file",
-        "url": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-1.0.3.tgz"
+        "url": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/64/32",
@@ -3058,11 +3233,11 @@
         "url": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/ba/6e",
-        "dest-filename": "3a841f7034e2a5c241e08aec84540c9b5c18f015457467f45a1c96e545df435e5b6e7bd15362fcc2afd12b42b2bd01dcf9314e201d655a3547dd9ab0bca8",
-        "sha512": "ba6e3a841f7034e2a5c241e08aec84540c9b5c18f015457467f45a1c96e545df435e5b6e7bd15362fcc2afd12b42b2bd01dcf9314e201d655a3547dd9ab0bca8",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/f6",
+        "dest-filename": "dc3bb8d70ddca3d031b16154a549e40d1db0fb5cf5afad559e554ba3ad0128673589211ac23e8ca4ea42fa2008c01b622894c2b84f484d51ed07394b3927",
+        "sha512": "61f6dc3bb8d70ddca3d031b16154a549e40d1db0fb5cf5afad559e554ba3ad0128673589211ac23e8ca4ea42fa2008c01b622894c2b84f484d51ed07394b3927",
         "type": "file",
-        "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.12.1.tgz"
+        "url": "https://registry.npmjs.org/js-yaml/-/js-yaml-3.13.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/a5/e6",
@@ -3163,11 +3338,11 @@
         "url": "https://registry.npmjs.org/lazy-cache/-/lazy-cache-1.0.4.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/a6/30",
-        "dest-filename": "9fdc1624faebf765c3f3115334045bcef54c39f139a5ad4d281b9b53aebf4a722777fa474ac5aa47f028dd62655ada73b9c0ea199f6addbd9c763ca8ffc6",
-        "sha512": "a6309fdc1624faebf765c3f3115334045bcef54c39f139a5ad4d281b9b53aebf4a722777fa474ac5aa47f028dd62655ada73b9c0ea199f6addbd9c763ca8ffc6",
+        "dest": "npm-cache/_cacache/content-v2/sha512/bb/dd",
+        "dest-filename": "e46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "sha512": "bbdde46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
         "type": "file",
-        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.3.tgz"
+        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.4.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/6a/f3",
@@ -3303,11 +3478,11 @@
         "url": "http://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/59/0c",
-        "dest-filename": "46ff9c58737b4c6d82d7a173e6f35113d960d42e25391716ee22835b26a2ce388f337a15c5759ba250481f76b536995075a710595069583914aba6e26b78",
-        "sha512": "590c46ff9c58737b4c6d82d7a173e6f35113d960d42e25391716ee22835b26a2ce388f337a15c5759ba250481f76b536995075a710595069583914aba6e26b78",
+        "dest": "npm-cache/_cacache/content-v2/sha512/a9/7d",
+        "dest-filename": "9b1b8f294ea6115660c1dfbae7ffa3d3ecb711f13ee8017ddb7fdf6ed53b759f3c587f1920a83c14c2894f957c1e3345f304e045cd2c7891fa7b28fd6cff",
+        "sha512": "a97d9b1b8f294ea6115660c1dfbae7ffa3d3ecb711f13ee8017ddb7fdf6ed53b759f3c587f1920a83c14c2894f957c1e3345f304e045cd2c7891fa7b28fd6cff",
         "type": "file",
-        "url": "https://registry.npmjs.org/mem/-/mem-4.0.0.tgz"
+        "url": "https://registry.npmjs.org/mem/-/mem-4.3.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/72/cb",
@@ -3366,11 +3541,11 @@
         "url": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.21.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/8d/ff",
-        "dest-filename": "38bb1cf08ae88854a88e2e97d893b378e934b2f2e6d3a279a7798f6fae91cd027a74401b76071595f5d3b7fe3f81a1501bf9ae46e980cf5b73391ce74c59",
-        "sha512": "8dff38bb1cf08ae88854a88e2e97d893b378e934b2f2e6d3a279a7798f6fae91cd027a74401b76071595f5d3b7fe3f81a1501bf9ae46e980cf5b73391ce74c59",
+        "dest": "npm-cache/_cacache/content-v2/sha512/3a/a6",
+        "dest-filename": "ce939a0441e019f165d6c9d96ef47263cfd59574422f6a63027179aea946234e49c7fecaac5af850def830285451d47a63bcd04a437ee76c9818cc6a8672",
+        "sha512": "3aa6ce939a0441e019f165d6c9d96ef47263cfd59574422f6a63027179aea946234e49c7fecaac5af850def830285451d47a63bcd04a437ee76c9818cc6a8672",
         "type": "file",
-        "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.2.0.tgz"
+        "url": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.1.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/52/d2",
@@ -3499,11 +3674,11 @@
         "url": "https://registry.npmjs.org/nice-try/-/nice-try-1.0.5.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/0b/fe",
-        "dest-filename": "361d56f9791b670e044a385c786c91fa2f06c64306c41ce0bfb6b43041247ac5601447f8e55a85099f13a6153bdd983219b63976547e1d97756942e233e6",
-        "sha512": "0bfe361d56f9791b670e044a385c786c91fa2f06c64306c41ce0bfb6b43041247ac5601447f8e55a85099f13a6153bdd983219b63976547e1d97756942e233e6",
+        "dest": "npm-cache/_cacache/content-v2/sha512/99/74",
+        "dest-filename": "3d181ab5377b830b2575a5d4b380882ec20b55a4cedfe7fe49e22a73d763ca5849663e95562c3b9697c8979a1cacaf6d7e5a65ff389e542b1f36c23a2682",
+        "sha512": "99743d181ab5377b830b2575a5d4b380882ec20b55a4cedfe7fe49e22a73d763ca5849663e95562c3b9697c8979a1cacaf6d7e5a65ff389e542b1f36c23a2682",
         "type": "file",
-        "url": "https://registry.npmjs.org/node-forge/-/node-forge-0.8.1.tgz"
+        "url": "https://registry.npmjs.org/node-forge/-/node-forge-0.8.2.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/cd/f5",
@@ -3702,11 +3877,11 @@
         "url": "https://registry.npmjs.org/get-stream/-/get-stream-4.1.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/bb/e6",
@@ -3737,18 +3912,18 @@
         "url": "https://registry.npmjs.org/p-finally/-/p-finally-1.0.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha1/9c/94",
-        "dest-filename": "56989e9f6588017b0434d56097675c3da05e",
-        "sha1": "9c9456989e9f6588017b0434d56097675c3da05e",
+        "dest": "npm-cache/_cacache/content-v2/sha512/63/75",
+        "dest-filename": "b4c2544f2bc64c45b36af7b978339a2d8a8780e659b5cfb6e4364c4291af0748f8d1d314569a90a673dbad89a2cff496f5783f0181e2314d6e00205e393e",
+        "sha512": "6375b4c2544f2bc64c45b36af7b978339a2d8a8780e659b5cfb6e4364c4291af0748f8d1d314569a90a673dbad89a2cff496f5783f0181e2314d6e00205e393e",
         "type": "file",
-        "url": "https://registry.npmjs.org/p-is-promise/-/p-is-promise-1.1.0.tgz"
+        "url": "https://registry.npmjs.org/p-is-promise/-/p-is-promise-2.1.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/36/15",
-        "dest-filename": "1190d72b541fbc84d7cbbb2b14f1e9d8e719f6297a61b0705a0b662644d4d945ced15aeb30e9aa52a5d123de3a3808c6fa5bd9eb17ab539ec26c25ecaeea",
-        "sha512": "36151190d72b541fbc84d7cbbb2b14f1e9d8e719f6297a61b0705a0b662644d4d945ced15aeb30e9aa52a5d123de3a3808c6fa5bd9eb17ab539ec26c25ecaeea",
+        "dest": "npm-cache/_cacache/content-v2/sha512/a5/96",
+        "dest-filename": "d3269a14b02cd5e3c31cf4d879d556f03b45fd72e3c513c818c31f414c2b7d485f3f6fb6658ddd9f5603b184817f1c34ca829573b3e18f87229f8cb2c545",
+        "sha512": "a596d3269a14b02cd5e3c31cf4d879d556f03b45fd72e3c513c818c31f414c2b7d485f3f6fb6658ddd9f5603b184817f1c34ca829573b3e18f87229f8cb2c545",
         "type": "file",
-        "url": "https://registry.npmjs.org/p-limit/-/p-limit-2.1.0.tgz"
+        "url": "https://registry.npmjs.org/p-limit/-/p-limit-2.2.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/c7/ed",
@@ -3758,11 +3933,11 @@
         "url": "https://registry.npmjs.org/p-locate/-/p-locate-3.0.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/84/ca",
-        "dest-filename": "74a270ca21a8c77c891d464dcfe02742984ae4600c710ed3f75b1ff89d9dda1a56aed952a1de666972e1641f6ed64242ffdd60423ce92dcc0f593809cc41",
-        "sha512": "84ca74a270ca21a8c77c891d464dcfe02742984ae4600c710ed3f75b1ff89d9dda1a56aed952a1de666972e1641f6ed64242ffdd60423ce92dcc0f593809cc41",
+        "dest": "npm-cache/_cacache/content-v2/sha512/47/89",
+        "dest-filename": "cf0154c053407d0f7e7f1a4dee25fffb5d86d0732a2148a76f03121148d821165e1eef5855a069c1350cfd716697c4ed88d742930bede331dbefa0ac3a75",
+        "sha512": "4789cf0154c053407d0f7e7f1a4dee25fffb5d86d0732a2148a76f03121148d821165e1eef5855a069c1350cfd716697c4ed88d742930bede331dbefa0ac3a75",
         "type": "file",
-        "url": "https://registry.npmjs.org/p-try/-/p-try-2.0.0.tgz"
+        "url": "https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/88/69",
@@ -3772,18 +3947,18 @@
         "url": "https://registry.npmjs.org/package-json/-/package-json-4.0.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/ea/2d",
-        "dest-filename": "0755b51f70a693bfe106f194ebef96b3ec615770b624f54c8b120ecda2dbff31afb3fd41b74c2a33e8688d78eae7d44fdeeb72345ff1e9c35f231ce4d49c",
-        "sha512": "ea2d0755b51f70a693bfe106f194ebef96b3ec615770b624f54c8b120ecda2dbff31afb3fd41b74c2a33e8688d78eae7d44fdeeb72345ff1e9c35f231ce4d49c",
+        "dest": "npm-cache/_cacache/content-v2/sha512/d0/34",
+        "dest-filename": "ef3d553779df3e1cd5cebb906cfa8fff31b763f5535031439ef68282c21f25d06370a530cc28259b46382d0f6f750169e402092a03f2ce9d04bc0264b5b7",
+        "sha512": "d034ef3d553779df3e1cd5cebb906cfa8fff31b763f5535031439ef68282c21f25d06370a530cc28259b46382d0f6f750169e402092a03f2ce9d04bc0264b5b7",
         "type": "file",
-        "url": "https://registry.npmjs.org/pako/-/pako-1.0.8.tgz"
+        "url": "https://registry.npmjs.org/pako/-/pako-1.0.10.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/d3/46",
@@ -4101,18 +4276,39 @@
         "url": "https://registry.npmjs.org/rcedit/-/rcedit-1.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/c9/6e",
-        "dest-filename": "216595dd34df8f6a28f92550224efd6552c00de5044153936aa2d42ac187559147334a60f39bae952eed1ea23899b76cc5798a6d4c50c06256a50c6b8774",
-        "sha512": "c96e216595dd34df8f6a28f92550224efd6552c00de5044153936aa2d42ac187559147334a60f39bae952eed1ea23899b76cc5798a6d4c50c06256a50c6b8774",
+        "dest": "npm-cache/_cacache/content-v2/sha512/3e/e1",
+        "dest-filename": "69320645d35541d32747d5d7e2b40c423ff7e1faa9df6c0f5c60d20fa313dbcf448c9e0b2b69f0ad6870d67c447b330943cf87e6acd0613e46a4c711694e",
+        "sha512": "3ee169320645d35541d32747d5d7e2b40c423ff7e1faa9df6c0f5c60d20fa313dbcf448c9e0b2b69f0ad6870d67c447b330943cf87e6acd0613e46a4c711694e",
         "type": "file",
-        "url": "https://registry.npmjs.org/read-config-file/-/read-config-file-3.2.1.tgz"
+        "url": "https://registry.npmjs.org/read-config-file/-/read-config-file-3.2.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/95",
-        "dest-filename": "cfbe2053b5f9ad91af67f6ccb53793396fcd826f158847a1c88ace2cdd64135c325a99cff4829096346cfa116756a780ce7e3cc97e1cff012f7354f8e35a",
-        "sha512": "4595cfbe2053b5f9ad91af67f6ccb53793396fcd826f158847a1c88ace2cdd64135c325a99cff4829096346cfa116756a780ce7e3cc97e1cff012f7354f8e35a",
+        "dest": "npm-cache/_cacache/content-v2/sha512/9d/f7",
+        "dest-filename": "e13a99329831024324749a7b14b68084f11957dfc1b4ad83fec202d617266e532baea23492be2ffe7ae3a2401227eb7c216306152081f54ef137b6ee0e12",
+        "sha512": "9df7e13a99329831024324749a7b14b68084f11957dfc1b4ad83fec202d617266e532baea23492be2ffe7ae3a2401227eb7c216306152081f54ef137b6ee0e12",
         "type": "file",
-        "url": "https://registry.npmjs.org/ajv/-/ajv-6.7.0.tgz"
+        "url": "https://registry.npmjs.org/ajv/-/ajv-6.10.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/14/6f",
+        "dest-filename": "a7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "sha512": "146fa7144642849adb43db4871c21f649073dc9ee62eb021c5a9006e7ac95a7f1deda28e0be2d689f6b41bea7866a2a9e32d774fb8ee62f761abd37329db2b8f",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.4.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/e6/2c",
+        "dest-filename": "74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "sha512": "e62c74e086d754867a9d244ce1a667c107e4e344ddd03e7b58097c2df86720217a5f04f879f099621d2f78e1ef7c39a0a5ba84e23bb92f95c400c21c01ed772b",
+        "type": "file",
+        "url": "https://registry.npmjs.org/bluebird-lst/-/bluebird-lst-1.0.7.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/ca/17",
+        "dest-filename": "76395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "sha512": "ca1776395d079c7b76a22b65a7e5fd865d91797e17ffb91078beffef6ab33c74d98f97943c6cc028ebc4825534d856b539e1b6ad2cbf68a07858655a2e217cb7",
+        "type": "file",
+        "url": "https://registry.npmjs.org/fs-extra-p/-/fs-extra-p-7.0.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/f0/c8",
@@ -4120,6 +4316,13 @@
         "sha512": "f0c87d87ac558a28e3dfa83b0f18be6384ba84d195f7abdc259aff4ab9478752d1fe9127ffc8fffaa2016ece3860a97af4badf72da78403f807562d332a11901",
         "type": "file",
         "url": "https://registry.npmjs.org/json5/-/json5-2.1.0.tgz"
+    },
+    {
+        "dest": "npm-cache/_cacache/content-v2/sha512/bb/dd",
+        "dest-filename": "e46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "sha512": "bbdde46f67cf6c8adfcc1b8b8d913ec3e7c96d450c84d0d7c4d98c7daa8d8297d07f508ee5949ed8b7ec9c1a95024ee2ff6345e3c392a118fe5ded954fe944f1",
+        "type": "file",
+        "url": "https://registry.npmjs.org/lazy-val/-/lazy-val-1.0.4.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/a3/50",
@@ -4388,11 +4591,11 @@
         "url": "https://registry.npmjs.org/regexpu-core/-/regexpu-core-2.0.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/24/bd",
-        "dest-filename": "fd73ad1797309580dacefaaabaf05a0d6f9eb0fe6ec962f191da34f9891d7106b500dcc7f1e53c24e6ba934e13e640a316c9d1a6abca05b439717eb9b19d",
-        "sha512": "24bdfd73ad1797309580dacefaaabaf05a0d6f9eb0fe6ec962f191da34f9891d7106b500dcc7f1e53c24e6ba934e13e640a316c9d1a6abca05b439717eb9b19d",
+        "dest": "npm-cache/_cacache/content-v2/sha512/e0/b3",
+        "dest-filename": "3a170f1e0507703187044b8c939e7d93a886ac6d7bb00f1dee9be411b3b4b9e5a30a081281c6f3d79764625231f0b892d3c987f14a999f4808d0a5cb8ff8",
+        "sha512": "e0b33a170f1e0507703187044b8c939e7d93a886ac6d7bb00f1dee9be411b3b4b9e5a30a081281c6f3d79764625231f0b892d3c987f14a999f4808d0a5cb8ff8",
         "type": "file",
-        "url": "https://registry.npmjs.org/registry-auth-token/-/registry-auth-token-3.3.2.tgz"
+        "url": "https://registry.npmjs.org/registry-auth-token/-/registry-auth-token-3.4.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/3d/4e",
@@ -4465,11 +4668,11 @@
         "url": "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha1/97/f7",
-        "dest-filename": "17b69d48784f5f526a6c5aa8ffdda055a4d1",
-        "sha1": "97f717b69d48784f5f526a6c5aa8ffdda055a4d1",
+        "dest": "npm-cache/_cacache/content-v2/sha512/34/a3",
+        "dest-filename": "7990c0f294aba577160b4947eb6e8e53bb387885dfb613c34f3d7d36999b67d55b911104e861efd9765272f89dee0a97da886174e5eec1f16d225db4079a",
+        "sha512": "34a37990c0f294aba577160b4947eb6e8e53bb387885dfb613c34f3d7d36999b67d55b911104e861efd9765272f89dee0a97da886174e5eec1f16d225db4079a",
         "type": "file",
-        "url": "https://registry.npmjs.org/require-main-filename/-/require-main-filename-1.0.1.tgz"
+        "url": "https://registry.npmjs.org/require-main-filename/-/require-main-filename-2.0.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/de/c5",
@@ -4570,11 +4773,11 @@
         "url": "https://registry.npmjs.org/semver-diff/-/semver-diff-2.1.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/45/2f",
-        "dest-filename": "51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
-        "sha512": "452f51e91df93588109fef9f90359a3a6a86a23e0493d806b3e0cfc4d5192aec04d7cdf18c9ae82afca8d48cd515e5ef52bbe600bcba1560f9c6b7494f6e6032",
+        "dest": "npm-cache/_cacache/content-v2/sha512/61/ae",
+        "dest-filename": "768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
+        "sha512": "61ae768d25f6bbb40a821c5ea051a92f00ad1a5b7b8f4a18f4361be5aa6df673e5278d880feba54d71129edfea010728484472679b25dcb0c83b0d27027ff90c",
         "type": "file",
-        "url": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
+        "url": "https://registry.npmjs.org/semver/-/semver-5.7.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha512/13/ae",
@@ -4955,11 +5158,11 @@
         "url": "https://registry.npmjs.org/sshpk/-/sshpk-1.15.2.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha1/e6/c8",
-        "dest-filename": "0b623123d7d80cf132ce538f346289072502",
-        "sha1": "e6c80b623123d7d80cf132ce538f346289072502",
+        "dest": "npm-cache/_cacache/content-v2/sha512/42/33",
+        "dest-filename": "0b4740375b0158d9a65d574a247c51090794d18e48205d98f13f703546c5ac34736edd83eff1bb66b5cea208567446e977144f77398a20be13940a553e9e",
+        "sha512": "42330b4740375b0158d9a65d574a247c51090794d18e48205d98f13f703546c5ac34736edd83eff1bb66b5cea208567446e977144f77398a20be13940a553e9e",
         "type": "file",
-        "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.2.2.tgz"
+        "url": "https://registry.npmjs.org/stat-mode/-/stat-mode-0.3.0.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/60/80",
@@ -5709,18 +5912,18 @@
         "url": "http://registry.npmjs.org/yargs/-/yargs-3.10.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/0b/a9",
-        "dest-filename": "01fd624389ac4e34b2509c5f1c731f5211ea134cb7a4f1155b68e22cac0512f15ac11177e67929c2671ca073e5c2dac34c048c0e3a77dcc62ca78c7b1549",
-        "sha512": "0ba901fd624389ac4e34b2509c5f1c731f5211ea134cb7a4f1155b68e22cac0512f15ac11177e67929c2671ca073e5c2dac34c048c0e3a77dcc62ca78c7b1549",
+        "dest": "npm-cache/_cacache/content-v2/sha512/c3/62",
+        "dest-filename": "d78e82fca1175140dfa13b2a69b97b3e57f7d5018b6972b47166e17b2adfce73e26bdae01c567b5a513353eb0e6286859f143a4d63c08fc7542c93167fa7",
+        "sha512": "c362d78e82fca1175140dfa13b2a69b97b3e57f7d5018b6972b47166e17b2adfce73e26bdae01c567b5a513353eb0e6286859f143a4d63c08fc7542c93167fa7",
         "type": "file",
-        "url": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-11.1.1.tgz"
+        "url": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-13.0.0.tgz"
     },
     {
-        "dest": "npm-cache/_cacache/content-v2/sha512/7d/aa",
-        "dest-filename": "b066a9d6c5bc67f85d5ddfdf7281e6a640dcb794fa7f1fd1faacdaea621e054950ad718fb772e6f533103ca3d983779e6633c02086ebbf92ec9803a553b0",
-        "sha512": "7daab066a9d6c5bc67f85d5ddfdf7281e6a640dcb794fa7f1fd1faacdaea621e054950ad718fb772e6f533103ca3d983779e6633c02086ebbf92ec9803a553b0",
+        "dest": "npm-cache/_cacache/content-v2/sha512/2f/6f",
+        "dest-filename": "124c1d7bd27c164badd48ed944384ddd95d400a5a257664388d6e3057f37f7ad1b8f7a01da1deb3279ef98c50f96e92bd10d057a52b74e751891d79df026",
+        "sha512": "2f6f124c1d7bd27c164badd48ed944384ddd95d400a5a257664388d6e3057f37f7ad1b8f7a01da1deb3279ef98c50f96e92bd10d057a52b74e751891d79df026",
         "type": "file",
-        "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.0.0.tgz"
+        "url": "https://registry.npmjs.org/camelcase/-/camelcase-5.3.1.tgz"
     },
     {
         "dest": "npm-cache/_cacache/content-v2/sha1/95/28",
@@ -5740,10 +5943,10 @@
         "commands": [
             "sed -r -i 's^\"git\\+https://github.com/mpfau/systemjs-hmr.git(#.*)?\"^\"git+file:/var/tmp/build-dir/npm-cache/git/mpfau-systemjs-hmr-git\\#a6f395a56335431edba3405ea1fe80424c9c2723\"^g' package.json",
             "sed -i 's^git+https://github.com/mpfau/systemjs-hmr.git#a6f395a56335431edba3405ea1fe80424c9c2723^git+file:/var/tmp/build-dir/npm-cache/git/mpfau-systemjs-hmr-git#a6f395a56335431edba3405ea1fe80424c9c2723^g' package-lock.json",
-            "sed -r -i 's^\"from\": \"git\\+https://github\\.com/mpfau/systemjs\\-hmr\\.git(#.*)?\",^^g' package-lock.json",
+            "sed -r -i 's^\"from\": \"git\\+https\\:\\/\\/github\\.com\\/mpfau\\/systemjs\\-hmr\\.git(#.*)?\",^^g' package-lock.json",
             "sed -r -i 's^\"git\\+https://github.com/mpfau/systemjs-hot-reloader.git(#.*)?\"^\"git+file:/var/tmp/build-dir/npm-cache/git/mpfau-systemjs-hot-reloader-git\\#feaa24c06aa8d0dfe9517ef1c8a85f4fb94d6b6a\"^g' package.json",
             "sed -i 's^git+https://github.com/mpfau/systemjs-hot-reloader.git#feaa24c06aa8d0dfe9517ef1c8a85f4fb94d6b6a^git+file:/var/tmp/build-dir/npm-cache/git/mpfau-systemjs-hot-reloader-git#feaa24c06aa8d0dfe9517ef1c8a85f4fb94d6b6a^g' package-lock.json",
-            "sed -r -i 's^\"from\": \"git\\+https://github\\.com/mpfau/systemjs\\-hot\\-reloader\\.git(#.*)?\",^^g' package-lock.json"
+            "sed -r -i 's^\"from\": \"git\\+https\\:\\/\\/github\\.com\\/mpfau\\/systemjs\\-hot\\-reloader\\.git(#.*)?\",^^g' package-lock.json"
         ],
         "type": "shell"
     }

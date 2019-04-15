@@ -47,8 +47,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/tutao/tutanota.git",
-		    "tag": "tutanota-release-3.50.1",
-                    "commit": "c6fcff5702b15c7cc13fab4b856fb0d17409bcf8"
+		    "tag": "tutanota-release-3.50.4",
+                    "commit": "0a18f4056cefd43957b52d9148b84368c06f1679"
                 },
 		{
 		    "type": "patch",
