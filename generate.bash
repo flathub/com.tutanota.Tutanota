@@ -2,7 +2,7 @@
 
 set -eu
 
-TAG=tutanota-release-3.50.4
+TAG=tutanota-release-3.50.10
 
 export cache="${PWD}/generate-cache"
 rm -rf "${cache}"
@@ -10,6 +10,7 @@ mkdir -p "${cache}"
 
 [ -d tutanota ] || git clone https://github.com/tutao/tutanota.git
 cd tutanota
+git fetch
 git checkout -f "${TAG}"
 patch -p1 <../generate.patch
 python3 ../flatpak-npm-generator.py package-lock.json -o ../generated-sources.json
