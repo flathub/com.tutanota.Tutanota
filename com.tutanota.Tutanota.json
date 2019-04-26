@@ -12,7 +12,8 @@
         "--share=ipc",
         "--socket=x11",
         "--socket=pulseaudio",
-        "--share=network"
+        "--share=network",
+        "--filesystem=home"
     ],
     "build-options" : {
 	"env": {
@@ -47,8 +48,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/tutao/tutanota.git",
-		    "tag": "tutanota-release-3.50.1",
-                    "commit": "c6fcff5702b15c7cc13fab4b856fb0d17409bcf8"
+		    "tag": "tutanota-release-3.50.10",
+                    "commit": "178c9b7dbe5cc67fc646e05badba3f310be9f747"
                 },
 		{
 		    "type": "patch",
