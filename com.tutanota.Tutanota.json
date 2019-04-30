@@ -13,7 +13,8 @@
         "--socket=x11",
         "--socket=pulseaudio",
         "--share=network",
-        "--filesystem=home"
+        "--filesystem=host",
+        "--socket=system-bus"
     ],
     "build-options" : {
 	"env": {
