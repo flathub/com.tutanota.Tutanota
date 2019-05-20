@@ -13,7 +13,14 @@
 
   <launchable type="desktop-id">com.tutanota.Tutanota.desktop</launchable>
   <developer_name>Tutao GmbH</developer_name>
-
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_flatpak_main.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_flatpak_contacts.png</image>
+    </screenshot>
+  </screenshots>
 ​  <url type="homepage">https://tutanota.com</url>
   <content_rating type="oars-1.1"/>
   <releases>
