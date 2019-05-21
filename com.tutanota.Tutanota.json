@@ -14,7 +14,9 @@
         "--socket=pulseaudio",
         "--share=network",
         "--filesystem=host",
-        "--socket=system-bus"
+        "--talk-name=org.freedesktop.Notifications",
+        "--device=dri",
+        "--env=TMPDIR=/var/tmp"
     ],
     "build-options" : {
 	"env": {
