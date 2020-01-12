@@ -1,11 +1,11 @@
 {
     "app-id": "com.tutanota.Tutanota",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "18.08",
+    "runtime-version": "19.08",
     "branch": "stable",
     "sdk": "org.freedesktop.Sdk",
     "base": "org.electronjs.Electron2.BaseApp",
-    "base-version": "18.08",
+    "base-version": "19.08",
     "command": "tutanota-desktop",
     "separate-locales": false,
     "finish-args": [
@@ -24,7 +24,6 @@
 	}
     },
     "modules": [
-
   "shared-modules/python2.7/python-2.7.json",
 	{
 	    "name": "nodejs",
