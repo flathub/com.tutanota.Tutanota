@@ -16,7 +16,6 @@
         "--share=network",
         "--filesystem=host",
         "--talk-name=org.freedesktop.Notifications",
-        "--device=dri",
         "--env=TMPDIR=/var/tmp"
     ],
     "build-options" : {
