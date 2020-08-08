@@ -2,7 +2,7 @@
 
 set -eu
 
-TAG=tutanota-release-3.50.10
+TAG=tutanota-release-3.75.3
 
 export cache="${PWD}/generate-cache"
 rm -rf "${cache}"
