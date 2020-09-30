@@ -32,15 +32,11 @@ index 602b39b2..22f81eaf 100644
  				},
  				"target": [
  					{
--						"target": unpacked ? "dir" : "nsis",
+-						"target": "AppImage",
 -						"arch": "x64"
--      },
--						{
--							"target": "dmg",
--							"arch": "x64"
-+      "target": "dir",
-+      "arch": (process.arch == "arm")?"armv7l":process.arch
-						}
++						"target": "dir",
++						"arch": (process.arch == "arm")?"armv7l":process.arch
+ 					}
  				]
  			}
 diff --git a/dist.js b/dist.js
