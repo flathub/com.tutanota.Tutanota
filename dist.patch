@@ -29,14 +29,16 @@ index 602b39b2..22f81eaf 100644
  			"electronVersion": "4.0.8",
  			"icon": iconPath,
 @@ -112,8 +113,8 @@ module.exports = function (nameSuffix, version, targetUrl, iconPath, sign) {
- 				},
- 				"target": [
- 					{
--						"target": "AppImage",
+				},
+				"target": [
+					{
+-						"target": unpacked ? "dir" : "AppImage",
 -						"arch": "x64"
 +						"target": "dir",
 +						"arch": (process.arch == "arm")?"armv7l":process.arch
- 					}
+					}
+				]
+			}
  				]
  			}
 diff --git a/dist.js b/dist.js
