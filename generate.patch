@@ -10,3 +10,16 @@ index 8e37fb5aa..50051d54d 100644
  			fs.removeAsync(path.join(distDir, '/src/')),
  		]))
  }
+diff --git a/buildSrc/electron-package-json-template.js b/buildSrc/electron-package-json-template.js
+index 5fc9e2706..4ba4269b6 100644
+--- a/buildSrc/electron-package-json-template.js
++++ b/buildSrc/electron-package-json-template.js
+@@ -161,7 +161,7 @@ module.exports = function (opts) {
+ 				"target": [
+ 					{
+ 						"target": unpacked ? "dir" : "AppImage",
+-						"arch": "x64"
++						"arch": (process.arch === "arm") ? "armv7l" : process.arch
+ 					}
+ 				]
+ 			}
