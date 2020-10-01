@@ -33,8 +33,8 @@
 	    "sources": [
 		{
 		    "type": "archive",
-		    "url": "https://nodejs.org/dist/v10.15.3/node-v10.15.3.tar.xz",
-		    "sha256": "4e22d926f054150002055474e452ed6cbb85860aa7dc5422213a2002ed9791d5"
+		    "url": "https://nodejs.org/dist/v12.18.4/node-v12.18.4.tar.xz",
+		    "sha256": "25f03cb18e53b6d0959d0c219e701a85eb4693f526bdda7c72bc6199b364f609"
 		}
 	    ]
 	},
