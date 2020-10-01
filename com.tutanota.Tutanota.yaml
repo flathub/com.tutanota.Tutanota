@@ -47,8 +47,8 @@ modules:
   build-commands:
   - |
     . /usr/lib/sdk/node12/enable.sh
-    npm install --offline --cache=/run/build/tutanota/npm-cache || exit 1
-    node dist release -l || exit 1
+    npm install --offline --cache=/run/build/tutanota/npm-cache || cat /run/build/tutanota/npm-cache/_logs/* && exit 1
+    node dist release -l || cat /run/build/tutanota/npm-cache/_logs/* && exit 1
 
   - mkdir -p /app/lib/
   - cp -r build/dist/installers/linux*-unpacked /app/lib/tutanota
