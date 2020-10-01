@@ -3,10 +3,10 @@ index 8e37fb5aa..50051d54d 100644
 --- a/buildSrc/DesktopBuilder.js
 +++ b/buildSrc/DesktopBuilder.js
 @@ -89,7 +89,6 @@ function build(opts) {
-                        fs.removeAsync(path.join(distDir, '/node_modules/')),
-                        fs.removeAsync(path.join(distDir, '/cache.json')),
-                        fs.removeAsync(path.join(distDir, '/package.json')),
--                       fs.removeAsync(path.join(distDir, '/package-lock.json')),
-                        fs.removeAsync(path.join(distDir, '/src/')),
-                ]))
+ 			fs.removeAsync(path.join(distDir, '/node_modules/')),
+ 			fs.removeAsync(path.join(distDir, '/cache.json')),
+ 			fs.removeAsync(path.join(distDir, '/package.json')),
+-			fs.removeAsync(path.join(distDir, '/package-lock.json')),
+ 			fs.removeAsync(path.join(distDir, '/src/')),
+ 		]))
  }
