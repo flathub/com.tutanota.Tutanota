@@ -43,8 +43,11 @@ modules:
     path: package-lock.json
     dest: build/dist
   build-commands:
-  - npm install --offline --cache=/run/build/tutanota/npm-cache
-  - node dist release -l
+  - |
+    . /usr/lib/sdk/node12/enable.sh
+    npm install --offline --cache=/run/build/tutanota/npm-cache || exit 1
+    node dist release -l || exit 1
+
   - mkdir -p /app/lib/
   - cp -r build/dist/installers/linux*-unpacked /app/lib/tutanota
   - ln -s /app/lib/tutanota/tutanota-desktop /app/bin/tutanota-desktop
