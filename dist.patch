@@ -38,7 +38,7 @@ index dc26c7a49..b9313d00b 100644
  				]
  			},
 diff --git a/dist.js b/dist.js
-index be34fb6fa..3906d3f3a 100644
+index be34fb6fa..4578853ec 100644
 --- a/dist.js
 +++ b/dist.js
 @@ -101,8 +101,7 @@ function measure() {
@@ -51,12 +51,20 @@ index be34fb6fa..3906d3f3a 100644
  }
  
  function buildWebapp() {
-@@ -209,8 +208,6 @@ function buildDesktopClient() {
- 					// Do not notarize test build
- 					notarize: false
- 				})
+@@ -202,16 +201,6 @@ function buildDesktopClient() {
+ 		if (options.stage === "release") {
+ 			const buildPromise = createHtml(env.create(SystemConfig.distRuntimeConfig(bundles), "https://mail.tutanota.com", version, "Desktop", true), bundles)
+ 				.then(() => desktopBuilder.build(desktopBaseOpts))
+-			if (!options.customDesktopRelease) { // don't build the test version for manual/custom builds
+-				const desktopTestOpts = Object.assign({}, desktopBaseOpts, {
+-					updateUrl: "https://test.tutanota.com/desktop",
+-					nameSuffix: "-test",
+-					// Do not notarize test build
+-					notarize: false
+-				})
 -				buildPromise.then(() => createHtml(env.create(SystemConfig.distRuntimeConfig(bundles), "https://test.tutanota.com", version, "Desktop", true), bundles))
 -				            .then(() => desktopBuilder.build(desktopTestOpts))
- 			}
+-			}
  			return buildPromise
  		} else if (options.stage === "local") {
+ 			const desktopLocalOpts = Object.assign({}, desktopBaseOpts, {
