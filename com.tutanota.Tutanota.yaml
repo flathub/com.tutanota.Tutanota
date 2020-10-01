@@ -44,7 +44,7 @@ modules:
     dest: build/dist
   build-commands:
   - |
-    . /usr/lib/sdk/node12/enable.sh
+    . /usr/lib/sdk/node10/enable.sh
     npm install --unsafe-perm --offline --cache=/run/build/tutanota/npm-cache || exit 1
     node dist release -l || exit 1
 
