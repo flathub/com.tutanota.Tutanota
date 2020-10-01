@@ -23,6 +23,7 @@ modules:
 - name: tutanota
   build-options:
     env:
+      npm_config_cache: "/run/build/tutanota/npm-cache"
       electron_config_cache: "/run/build/tutanota/npm-cache"
       ELECTRON_BUILDER_CACHE: "/run/build/tutanota/npm-cache"
       ELECTRON_CACHE: "/run/build/tutanota/npm-cache"
@@ -42,8 +43,8 @@ modules:
   build-commands:
   - |
     . /usr/lib/sdk/node10/enable.sh
-    npm install --unsafe-perm --offline --cache=/run/build/tutanota/npm-cache || exit 1
-    node dist release -l || exit 1
+    npm install || exit 1
+    node dist --custom-desktop-release || exit 1
 
   - mkdir -p /app/lib/
   - cp -r build/dist/installers/linux*-unpacked /app/lib/tutanota
