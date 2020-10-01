@@ -17,7 +17,7 @@ finish-args:
 - "--talk-name=org.freedesktop.Notifications"
 - "--env=TMPDIR=/var/tmp"
 sdk-extensions:
-- org.freedesktop.Sdk.Extension.node12
+- org.freedesktop.Sdk.Extension.node10
 build-options:
   env:
     NPM_CONFIG_LOGLEVEL: info
@@ -45,7 +45,6 @@ modules:
   build-commands:
   - |
     . /usr/lib/sdk/node12/enable.sh
-    npm cache verify --force --cache=/run/build/tutanota/npm-cache || exit 1
     npm install --unsafe-perm --offline --cache=/run/build/tutanota/npm-cache || exit 1
     node dist release -l || exit 1
 
