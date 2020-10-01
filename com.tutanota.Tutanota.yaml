@@ -46,7 +46,7 @@ modules:
     . /usr/lib/sdk/node10/enable.sh
     chattr +i package-lock.json
     chmod ugo-wx package-lock.json
-    npm install || exit 1
+    npm install --unsafe-perm=true || exit 1
     node dist --custom-desktop-release || exit 1
 
   - mkdir -p /app/lib/
