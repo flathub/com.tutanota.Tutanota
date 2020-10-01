@@ -45,7 +45,7 @@ modules:
   build-commands:
   - |
     . /usr/lib/sdk/node12/enable.sh
-    npm cache verify --force || exit 1
+    npm cache verify --force --cache=/run/build/tutanota/npm-cache || exit 1
     npm install --unsafe-perm --offline --cache=/run/build/tutanota/npm-cache || exit 1
     node dist release -l || exit 1
 
