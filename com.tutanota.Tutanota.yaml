@@ -17,7 +17,7 @@ finish-args:
 - "--talk-name=org.freedesktop.Notifications"
 - "--env=TMPDIR=/var/tmp"
 sdk-extensions:
-- org.freedesktop.Sdk.Extension.node10
+- org.freedesktop.Sdk.Extension.node12
 modules:
 - shared-modules/libsecret/libsecret.json
 - name: tutanota
@@ -43,7 +43,7 @@ modules:
     dest: build/dist
   build-commands:
   - |
-    . /usr/lib/sdk/node10/enable.sh
+    . /usr/lib/sdk/node12/enable.sh
     chattr +i package-lock.json
     chmod ugo-wx package-lock.json
     npm install --unsafe-perm=true || exit 1
