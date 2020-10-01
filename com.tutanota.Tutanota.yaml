@@ -22,7 +22,9 @@ build-options:
   env:
     NPM_CONFIG_LOGLEVEL: info
 modules:
+- shared-modules/dbus-glib/dbus-glib-0.110.json
 - shared-modules/libsecret/libsecret.json
+- shared-modules/intltool/intltool-0.51.json
 - name: tutanota
   build-options:
     env:
