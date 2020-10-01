@@ -27,6 +27,7 @@ modules:
       electron_config_cache: "/run/build/tutanota/npm-cache"
       ELECTRON_BUILDER_CACHE: "/run/build/tutanota/npm-cache"
       ELECTRON_CACHE: "/run/build/tutanota/npm-cache"
+      ELECTRON_SKIP_BINARY_DOWNLOAD: 1
   buildsystem: simple
   sources:
   - type: git
