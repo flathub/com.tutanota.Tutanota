@@ -18,9 +18,6 @@ finish-args:
 - "--env=TMPDIR=/var/tmp"
 sdk-extensions:
 - org.freedesktop.Sdk.Extension.node10
-build-options:
-  env:
-    NPM_CONFIG_LOGLEVEL: info
 modules:
 - shared-modules/libsecret/libsecret.json
 - name: tutanota
