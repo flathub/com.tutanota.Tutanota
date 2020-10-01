@@ -47,7 +47,7 @@ modules:
     chattr +i package-lock.json
     chmod ugo-wx package-lock.json
     npm install --unsafe-perm=true || exit 1
-    node dist --custom-desktop-release || exit 1
+    node dist release -l || exit 1
 
   - mkdir -p /app/lib/
   - cp -r build/dist/installers/linux*-unpacked /app/lib/tutanota
