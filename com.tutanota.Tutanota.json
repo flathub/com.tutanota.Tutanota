@@ -16,6 +16,8 @@
     "--share=network",
     "--filesystem=host",
     "--talk-name=org.freedesktop.Notifications",
+    "--talk-name=org.freedesktop.secrets",
+    "--talk-name=org.kde.StatusNotifierWatcher",
     "--env=TMPDIR=/var/tmp"
   ],
   "modules": [
@@ -27,8 +29,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "ba9219bea53bb1e37acc2a553cfafe17ae4c454af8a94d55c0dad85627be5db4",
-          "url": "https://github.com/ganthern/tutanota/releases/download/flatpak-3.76.10/tutanota-desktop-3.76.10-unpacked-linux.tar.gz"
+          "sha256": "7b98ec09f7cfce4b392ce0a01de4cb7a4f663992041561fd75f51eb4d7e8352e",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.76.11/tutanota-desktop-3.76.11-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
