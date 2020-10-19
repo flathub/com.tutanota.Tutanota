@@ -45,7 +45,7 @@ git checkout master
 
 echo ""
 echo ""
-echo "Please remember to upload"
+echo "Done! Please remember to upload"
 echo "${ARCHIVE}"
 echo "to the assets of github release ${TAG} at"
 echo "${CHANGELOG_URL}"
