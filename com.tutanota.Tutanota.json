@@ -29,7 +29,7 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "7b98ec09f7cfce4b392ce0a01de4cb7a4f663992041561fd75f51eb4d7e8352e",
+          "sha256": "36423fc39a56432ed821af92add89b3de3d808e30f615de17fe256f6a59b159a",
           "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.76.11/tutanota-desktop-3.76.11-unpacked-linux.tar.gz"
         },
         {
