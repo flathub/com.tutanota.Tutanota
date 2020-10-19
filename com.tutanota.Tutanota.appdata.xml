@@ -25,15 +25,9 @@
             </image>
         </screenshot>
     </screenshots>
-    ​
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
     <releases>
-        <release version="3.76.10" date="2020-10-06">
-            <description>
-                https://github.com/tutao/tutanota/releases/tag/tutanota-release-3.76.10
-            </description>
-        </release>
         <release version="3.50.10" date="2019-04-25">
             <description>
                 <p>New:</p>
@@ -70,6 +64,5 @@
                 </ul>
             </description>
         </release>
-        ​
     </releases>
 </application>
