@@ -1,9 +1,9 @@
 {
   "app-id": "com.tutanota.Tutanota",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "20.08",
+  "runtime-version": "19.08",
   "base": "org.electronjs.Electron2.BaseApp",
-  "base-version": "20.08",
+  "base-version": "19.08",
   "branch": "stable",
   "sdk": "org.freedesktop.Sdk",
   "command": "tutanota-desktop",
@@ -29,8 +29,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "708f40c64d4bfe67ec8ba5d2ea88de0c83e64873d0f9abff3b39e861bf78fd7d",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.77.1/tutanota-desktop-3.77.1-unpacked-linux.tar.gz"
+          "sha256": "69fa9f3c9d6a5cf28ceabccd2b664b80b611bb7b187a51a551e1ba5741999ee6",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.77.4/tutanota-desktop-3.77.4-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
