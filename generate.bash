@@ -1,9 +1,9 @@
 #!/bin/bash
 
-set -eu
+set -eux
 
 # get the correct commit from the tutanota repo (last tag that matches tutanota-release*)
-[ -d tutanota ] || git clone --depth 20 https://github.com/tutao/tutanota.git
+[ -d tutanota ] || git clone --depth 20 git@github.com:tutao/tutanota.git
 cd tutanota
 git fetch
 TAG=`git describe --tags --abbrev=0 --match "tutanota-release-*" HEAD`
@@ -36,7 +36,7 @@ node ./manifest-template.js $CHECKSUM $URL
 
 # update appdata
 node ./appdata-update.js $VERSION $DATE $CHANGELOG_URL
-nano ./com.tutanota.Tutanota.appdata.xml.tmp
+${VISUAL:-${EDITOR:-vi}} ./com.tutanota.Tutanota.appdata.xml.tmp
 mv ./com.tutanota.Tutanota.appdata.xml.tmp ./com.tutanota.Tutanota.appdata.xml
 
 # clean up
