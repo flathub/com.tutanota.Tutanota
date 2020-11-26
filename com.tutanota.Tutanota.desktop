@@ -7,3 +7,4 @@ Exec=tutanota-desktop %U
 Icon=com.tutanota.Tutanota
 MimeType=x-scheme-handler/mailto;
 Categories=Email;Network;
+StartupWMClass=tutanota-desktop
