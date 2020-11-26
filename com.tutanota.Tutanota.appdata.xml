@@ -29,7 +29,23 @@
     <content_rating type="oars-1.1"/>
     
     
+    
     <releases>
+      <release version="3.78.2" date="2020-11-26">
+        <description>
+          <p>Improvements</p>
+          <ul>
+            <li>Reduce server requests by introducting a leader client</li>
+            <li>Remove Tutanota references on whitelabel domain</li>
+            <li>Improve settting the organizer of calendar event</li>
+          </ul>
+          <p>Bugfixes:</p>
+          <ul>
+            <li>Various bugfixes (thanks @SnowyMouse)</li>
+          </ul>
+          <ul>
+        </description>
+      </release>
       <release version="3.77.4" date="2020-11-04">
         <description>
           <p>Bugfixes:</p>
