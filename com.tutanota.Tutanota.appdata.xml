@@ -28,9 +28,34 @@
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
     
+      
     
     
     <releases>
+      <release version="3.79.2" date="2020-12-18">
+        <description>
+	<p>What's new</p>
+	<ul>
+		<li>Gift cards</li>
+		<li>Update DOMPurify to 2.2.4 </li>
+		<li>Show progress bar for loading calendar when initially accessing it </li>
+	</ul>
+	<p>Bugfixes:</p>
+	<ul>
+		<li>Dialog for adding aliases does not redirect on "ok"</li>
+		<li>Too many empty lines between signature and email body</li>
+		<li>Do not load calendar events in parallel</li>
+		<li>Notification channel names are invalid</li>
+		<li>Do not restart SSE when new user is added</li>
+		<li>Quoted printable not supported for contact import</li>
+		<li>Improve colored text detection</li>
+		<li>MailViewer/MultMailViewer/MultiSearchViewer have different button positions</li>
+		<li>Weird behaviour of the Mail Editor </li>
+		<li>Failed assertion when reloading back in from settings view on firefox</li>
+		<li>Whitelabel 2FA form shows line 'more info' without link</li>
+	</ul>
+        </description>
+      </release>
       <release version="3.78.2" date="2020-11-26">
         <description>
           <p>Improvements</p>
