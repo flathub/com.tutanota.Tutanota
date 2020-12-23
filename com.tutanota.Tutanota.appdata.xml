@@ -27,11 +27,19 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
-    
-      
-    
-    
     <releases>
+      <release version="3.80.2" date="2020-12-23">
+        <description>
+          <p>What's new</p>
+          <ul>
+            <li>3-D Secure 2 support for credit card payments</li>
+          </ul>
+          <p>Bugfixes</p>
+          <ul>
+            <li>Small bugfixes for gift cards</li>
+          </ul>
+        </description>
+      </release>
       <release version="3.79.2" date="2020-12-18">
         <description>
 	<p>What's new</p>
