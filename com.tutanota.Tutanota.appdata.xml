@@ -11,7 +11,6 @@
             privacy that lets you encrypt emails on all your devices.
         </p>
     </description>
-
     <launchable type="desktop-id">com.tutanota.Tutanota.desktop</launchable>
     <developer_name>Tutao GmbH</developer_name>
     <screenshots>
@@ -27,7 +26,40 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
+    
     <releases>
+      <release version="3.80.4" date="2021-01-12">
+        <description>
+          <p>What's new:</p>
+          <ul>
+            <li>Gift card improvements</li>
+            <li>Performance improvements</li>
+          </ul>
+          <p>Bugfixes:</p>
+          <ul>
+    <li>Fix progress bar getting stuck</li>
+    <li>Fix repeated offline message</li>
+    <li>Do not show progress bar when switching months in calendar</li>
+    <li>Fix printing mail addresses</li>
+    <li>Avoid multiple confirmaion dialogs for search</li>
+    <li>Avoid getting blocked on imporing calendar</li>
+    <li>Avoid selecting checkbox when link is clicked</li>
+    <li>Fix terms on gift card signup</li> 
+    <li>Fix button position changing (thanks @SnowyMouse!)</li>
+    <li>Updates after Brexit</li>
+    <li>Fix search button getting stuck after confirming indexing</li>
+    <li>Fix error with list on resizing</li>
+    <li>Fix checking number of aliases when adding a new one</li>
+    <li>Remove excessive logging</li>
+    <li>Fix saving email in trash as draft</li>
+    <li>Disallow reply/forward for drafts</li>
+    <li>Small fixes for shortcuts dialog</li>
+    <li>Avoid opening search when switching views</li>
+    <li>Fix logging cyclic objects</li>
+    <li>Fix event popup being stuck</li>
+          </ul>
+        </description>
+      </release>
       <release version="3.80.2" date="2020-12-23">
         <description>
           <p>What's new</p>
