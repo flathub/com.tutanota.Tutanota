@@ -29,8 +29,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "e0528fdd496e735e996fc498d8d5e74a44241a5fcd161d305422708a5db563b8",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.80.4/tutanota-desktop-3.80.4-unpacked-linux.tar.gz"
+          "sha256": "cfe88eef762747c4dbf592c44565fa4062c0f37f1c7a8b84222787fb8128119a",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.80.5/tutanota-desktop-3.80.5-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
