@@ -28,7 +28,25 @@
     <content_rating type="oars-1.1"/>
     
     
+    
     <releases>
+      <release version="3.81.2" date="2021-02-01">
+        <description>
+          <p>What's new</p>
+          <ul>
+            <li>Faster and smaller app</li>
+            <li>Redirect to payment dialog on exceeded storage</li>
+          </ul>
+          <p>Bugfixes</p>
+          <ul>
+            <li>Fix "show all" button for attachments</li>
+            <li>Fix tabbing from email fields in mail editor</li>
+            <li>Fix overflow for location in calendar</li>
+            <li>Fix race condition in indexer</li>
+            <li>Fixes for payment process</li>
+          </ul>
+        </description>
+      </release>
       <release version="3.80.5" date="2021-01-22">
         <description>
           <p>What's new</p>
