@@ -26,10 +26,15 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
-    
-    
-    
     <releases>
+      <release version="3.81.3" date="2021-02-03">
+        <description>
+          <p>Bugfixes</p>
+          <ul>
+            <li>Fix loading long-running calendar events</li>
+          </ul>
+        </description>
+      </release>
       <release version="3.81.2" date="2021-02-01">
         <description>
           <p>What's new</p>
