@@ -27,31 +27,45 @@
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
     <releases>
-      <release version="3.81.3" date="2021-02-03">
+      <release version="3.81.8" date="2021-02-12">
         <description>
-          <p>Bugfixes</p>
-          <ul>
-            <li>Fix loading long-running calendar events</li>
-          </ul>
+          What's new
+
+          Change bundling of the app to make load faster #2671
+          Make sender confirm large number of recipients in "to" #2620
+
+          Bufixes
+
+          Fix cancelling delete action #2684
+          Fix export skipping some emails #2637
+          Fix multiselect/delete on mobile #2700 #2701 #2117
         </description>
       </release>
-      <release version="3.81.2" date="2021-02-01">
-        <description>
-          <p>What's new</p>
-          <ul>
-            <li>Faster and smaller app</li>
-            <li>Redirect to payment dialog on exceeded storage</li>
-          </ul>
-          <p>Bugfixes</p>
-          <ul>
-            <li>Fix "show all" button for attachments</li>
-            <li>Fix tabbing from email fields in mail editor</li>
-            <li>Fix overflow for location in calendar</li>
-            <li>Fix race condition in indexer</li>
-            <li>Fixes for payment process</li>
-          </ul>
-        </description>
-      </release>
+        <release version="3.81.3" date="2021-02-03">
+          <description>
+            <p>Bugfixes</p>
+            <ul>
+              <li>Fix loading long-running calendar events</li>
+            </ul>
+          </description>
+        </release>
+        <release version="3.81.2" date="2021-02-01">
+          <description>
+            <p>What's new</p>
+            <ul>
+              <li>Faster and smaller app</li>
+              <li>Redirect to payment dialog on exceeded storage</li>
+            </ul>
+            <p>Bugfixes</p>
+            <ul>
+              <li>Fix "show all" button for attachments</li>
+              <li>Fix tabbing from email fields in mail editor</li>
+              <li>Fix overflow for location in calendar</li>
+              <li>Fix race condition in indexer</li>
+              <li>Fixes for payment process</li>
+            </ul>
+          </description>
+        </release>
       <release version="3.80.5" date="2021-01-22">
         <description>
           <p>What's new</p>
