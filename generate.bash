@@ -6,7 +6,7 @@ set -eu
 [ -d tutanota ] || git clone --depth 20 https://github.com/tutao/tutanota.git
 cd tutanota
 git fetch
-TAG=`git describe --tags --abbrev=0 --match "tutanota-release-*" HEAD`
+TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-release-*"`
 if [[ $TAG == tutanota-release-* ]]; then
    echo $TAG
  else
