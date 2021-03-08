@@ -28,7 +28,32 @@
     <content_rating type="oars-1.1"/>
     
     
+    
     <releases>
+      <release version="3.82.7" date="2021-03-08">
+        <description>
+          <p>Improvements</p>
+
+          <ul><li>Improve client side validation of credit card information #2602</li></ul>
+
+          <p>Bugfixes</p>
+
+          <ul>
+            <li>Can't drag exported .msg files into the windows shell #2764</li>
+            <li>Uncached languages might lead to a problem on update #2744</li>
+            <li>Desktop client breaks on unicode path #2641</li>
+            <li>Hovering over NavButton shows href tooltip #2773</li>
+            <li>ProgrammingError: Batch does not have events for ... #2648</li>
+            <li>Clean up the temporary directory #2770</li>
+            <li>The textfield label should always move up if injectionsLeft are present #2776</li>
+            <li>switchSubscription getPrices makes 12 concurrent requests #2613</li>
+            <li>Inline picture not shown as attachment when editing draft after saving once #2692</li>
+            <li>Contact view not usable after not opening contact with invalid birthday #2708</li>
+            <li>It's possible to open up the calendar even editor even with no calendars #2665</li>
+            <li>Merging contacts ignores whitespace in phone numbers #2779</li>
+          </ul>
+        </description>
+      </release>
       <release version="3.82.4" date="2021-03-02">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-release-3.82.4
