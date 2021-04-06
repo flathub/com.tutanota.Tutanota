@@ -18,6 +18,7 @@ ARCHIVE="tutanota-desktop-${VERSION}-unpacked-linux.tar.gz"
 URL="https://github.com/tutao/tutanota/releases/download/${TAG}/${ARCHIVE}"
 CHANGELOG_URL="https://github.com/tutao/tutanota/releases/${TAG}"
 DATE=`date +"%Y-%m-%d"`
+
 git checkout -f "${TAG}"
 
 # generate the client
