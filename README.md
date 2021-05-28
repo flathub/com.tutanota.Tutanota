@@ -1,8 +1,6 @@
 ## In order to update:
 
-- Change tag in `generate.bash` to the version to be built
 - Run `./generate.bash`.
-- Update changelog in `com.tutanota.Tutanota.appdata.xml`.
 
 
 ## Modules
