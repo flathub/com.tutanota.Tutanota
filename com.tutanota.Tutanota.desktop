@@ -1,10 +1,22 @@
 [Desktop Entry]
-Version=1.0
+Version=1.2
 Type=Application
 Name=Tutanota
-Comment=Email client
+GenericName=Email client
+GenericName[bs]=Mejl klijent
+GenericName[nl]=E-mail client
+GenericName[no]=E-postklient
+GenericName[sv]=E-post klient
+Comment=Secure email for everybody.
+Comment[nl]=Beveiligde e-mail voor iedereen.
+Comment[no]=Sikker e-post for alle.
+Comment[sv]=Säker e-post för alla.
 Exec=tutanota-desktop %U
 Icon=com.tutanota.Tutanota
 MimeType=x-scheme-handler/mailto;
 Categories=Email;Network;
 StartupWMClass=tutanota-desktop
+Keywords=email;e-mail;
+Keywords[nl]=e-mail;
+Keywords[no]=e-post;
+Keywords[sv]=e-post;e-mail;mail;mejl;
