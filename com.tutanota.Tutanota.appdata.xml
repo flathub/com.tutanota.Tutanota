@@ -38,7 +38,13 @@
     
     
     
+    
     <releases>
+      <release version="3.84.11" date="2021-07-07">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.11
+        </description>
+      </release>
       <release version="3.84.10" date="2021-07-06">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-release-3.84.10
