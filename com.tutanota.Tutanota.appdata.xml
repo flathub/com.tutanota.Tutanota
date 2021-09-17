@@ -26,7 +26,13 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
+    
     <releases>
+      <release version="3.88.0" date="2021-09-17">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-release-3.88.0
+        </description>
+      </release>
       <release version="3.87.2" date="2021-09-06">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-release-3.87.2
