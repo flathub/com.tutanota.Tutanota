@@ -28,7 +28,13 @@
     <content_rating type="oars-1.1"/>
     
     
+    
     <releases>
+      <release version="3.89.5" date="2021-10-21">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.5
+        </description>
+      </release>
       <release version="3.88.3" date="2021-09-22">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-release-3.88.3
