@@ -22,6 +22,7 @@ git checkout -f "${TAG}"
 
 # generate the client
 npm install
+npm run build-packages
 node dist --unpacked --custom-desktop-release
 cd ..
 
