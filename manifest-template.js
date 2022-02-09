@@ -18,6 +18,7 @@ const manifest = {
         "--socket=x11",
         "--socket=wayland",
         "--socket=pulseaudio",
+	"--socket=session-bus",
         "--share=network",
         "--filesystem=host",
         "--talk-name=org.freedesktop.Notifications",
