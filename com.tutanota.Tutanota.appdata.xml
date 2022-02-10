@@ -3,12 +3,16 @@
     <id type="desktop">com.tutanota.Tutanota</id>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3</project_license>
-    <name>Tutanota</name>
-    <summary>Email client</summary>
-
+    <name>Tutanota (preview)</name>
+    <summary>Encrypted email client</summary>
     <description>
         <p>Tutanota is an email client with a strong focus on security and
             privacy that lets you encrypt emails on all your devices.
+        </p>
+        <p>
+            <em>Note:</em>
+            Flatpak release is in a preview stage and there are known issues. When reporting bugs please
+            always specify that you are using Flatpak version.
         </p>
     </description>
     <launchable type="desktop-id">com.tutanota.Tutanota.desktop</launchable>
@@ -27,322 +31,324 @@
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
     <releases>
-      <release version="3.91.10-1" date="2022-02-09">
-        <description>
-	  Patch for the dbus issue and new runtime
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
-        </description>
-      </release>
-      <release version="3.91.10" date="2022-02-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
-        </description>
-      </release>
-      <release version="3.91.9" date="2022-02-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.91.9
-        </description>
-      </release>
-      <release version="3.91.6" date="2022-01-31">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.91.6
-        </description>
-      </release>
-      <release version="3.89.25" date="2021-12-15">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.25
-        </description>
-      </release>
-      <release version="3.89.23" date="2021-12-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.23
-        </description>
-      </release>
-      <release version="3.89.12" date="2021-11-08">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.12
-        </description>
-      </release>
-      <release version="3.89.9" date="2021-10-28">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.9
-        </description>
-      </release>
-      <release version="3.89.5" date="2021-10-21">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.89.5
-        </description>
-      </release>
-      <release version="3.88.3" date="2021-09-22">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.88.3
-        </description>
-      </release>
-      <release version="3.88.0" date="2021-09-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.88.0
-        </description>
-      </release>
-      <release version="3.87.2" date="2021-09-06">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.87.2
-        </description>
-      </release>
-      <release version="3.86.3" date="2021-08-20">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.86.3
-        </description>
-      </release>
-      <release version="3.85.10" date="2021-08-06">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.85.10
-        </description>
-      </release>
-      <release version="3.85.3" date="2021-07-16">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.85.3
-        </description>
-      </release>
-      <release version="3.84.11" date="2021-07-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.11
-        </description>
-      </release>
-      <release version="3.84.10" date="2021-07-06">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.10
-        </description>
-      </release>
-      <release version="3.84.7" date="2021-06-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.7
-        </description>
-      </release>
-      <release version="3.84.4" date="2021-06-04">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.4
-        </description>
-      </release>
-      <release version="3.84.0" date="2021-05-28">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.84.0
-        </description>
-      </release>
-      <release version="3.83.7" date="2021-05-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.83.7
-        </description>
-      </release>
-      <release version="3.83.2" date="2021-04-29">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.83.2
-        </description>
-      </release>
-      <release version="3.82.17" date="2021-04-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.82.17
-        </description>
-      </release>
-      <release version="3.82.11" date="2021-03-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.82.11
-        </description>
-      </release>
-      <release version="3.82.8" date="2021-03-10">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.82.8
-        </description>
-      </release>
-      <release version="3.82.7" date="2021-03-08">
-        <description>
-          <p>Improvements</p>
+        <release version="3.91.10-1" date="2022-02-09">
+            <description>
+                Patch for the dbus issue and new runtime
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+            </description>
+        </release>
+        <release version="3.91.10" date="2022-02-09">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+            </description>
+        </release>
+        <release version="3.91.9" date="2022-02-07">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.9
+            </description>
+        </release>
+        <release version="3.91.6" date="2022-01-31">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.6
+            </description>
+        </release>
+        <release version="3.89.25" date="2021-12-15">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.25
+            </description>
+        </release>
+        <release version="3.89.23" date="2021-12-02">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.23
+            </description>
+        </release>
+        <release version="3.89.12" date="2021-11-08">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.12
+            </description>
+        </release>
+        <release version="3.89.9" date="2021-10-28">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.9
+            </description>
+        </release>
+        <release version="3.89.5" date="2021-10-21">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.5
+            </description>
+        </release>
+        <release version="3.88.3" date="2021-09-22">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.88.3
+            </description>
+        </release>
+        <release version="3.88.0" date="2021-09-17">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.88.0
+            </description>
+        </release>
+        <release version="3.87.2" date="2021-09-06">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.87.2
+            </description>
+        </release>
+        <release version="3.86.3" date="2021-08-20">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.86.3
+            </description>
+        </release>
+        <release version="3.85.10" date="2021-08-06">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.85.10
+            </description>
+        </release>
+        <release version="3.85.3" date="2021-07-16">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.85.3
+            </description>
+        </release>
+        <release version="3.84.11" date="2021-07-07">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.11
+            </description>
+        </release>
+        <release version="3.84.10" date="2021-07-06">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.10
+            </description>
+        </release>
+        <release version="3.84.7" date="2021-06-25">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.7
+            </description>
+        </release>
+        <release version="3.84.4" date="2021-06-04">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.4
+            </description>
+        </release>
+        <release version="3.84.0" date="2021-05-28">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.0
+            </description>
+        </release>
+        <release version="3.83.7" date="2021-05-25">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.83.7
+            </description>
+        </release>
+        <release version="3.83.2" date="2021-04-29">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.83.2
+            </description>
+        </release>
+        <release version="3.82.17" date="2021-04-09">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.17
+            </description>
+        </release>
+        <release version="3.82.11" date="2021-03-17">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.11
+            </description>
+        </release>
+        <release version="3.82.8" date="2021-03-10">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.8
+            </description>
+        </release>
+        <release version="3.82.7" date="2021-03-08">
+            <description>
+                <p>Improvements</p>
 
-          <ul><li>Improve client side validation of credit card information #2602</li></ul>
+                <ul>
+                    <li>Improve client side validation of credit card information #2602</li>
+                </ul>
 
-          <p>Bugfixes</p>
+                <p>Bugfixes</p>
 
-          <ul>
-            <li>Can't drag exported .msg files into the windows shell #2764</li>
-            <li>Uncached languages might lead to a problem on update #2744</li>
-            <li>Desktop client breaks on unicode path #2641</li>
-            <li>Hovering over NavButton shows href tooltip #2773</li>
-            <li>ProgrammingError: Batch does not have events for ... #2648</li>
-            <li>Clean up the temporary directory #2770</li>
-            <li>The textfield label should always move up if injectionsLeft are present #2776</li>
-            <li>switchSubscription getPrices makes 12 concurrent requests #2613</li>
-            <li>Inline picture not shown as attachment when editing draft after saving once #2692</li>
-            <li>Contact view not usable after not opening contact with invalid birthday #2708</li>
-            <li>It's possible to open up the calendar even editor even with no calendars #2665</li>
-            <li>Merging contacts ignores whitespace in phone numbers #2779</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.82.4" date="2021-03-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.82.4
-        </description>
-      </release>
-      <release version="3.82.1" date="2021-02-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.82.1
-        </description>
-      </release>
-      <release version="3.81.8" date="2021-02-12">
-        <description>
-          What's new
+                <ul>
+                    <li>Can't drag exported .msg files into the windows shell #2764</li>
+                    <li>Uncached languages might lead to a problem on update #2744</li>
+                    <li>Desktop client breaks on unicode path #2641</li>
+                    <li>Hovering over NavButton shows href tooltip #2773</li>
+                    <li>ProgrammingError: Batch does not have events for ... #2648</li>
+                    <li>Clean up the temporary directory #2770</li>
+                    <li>The textfield label should always move up if injectionsLeft are present #2776</li>
+                    <li>switchSubscription getPrices makes 12 concurrent requests #2613</li>
+                    <li>Inline picture not shown as attachment when editing draft after saving once #2692</li>
+                    <li>Contact view not usable after not opening contact with invalid birthday #2708</li>
+                    <li>It's possible to open up the calendar even editor even with no calendars #2665</li>
+                    <li>Merging contacts ignores whitespace in phone numbers #2779</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.82.4" date="2021-03-02">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.4
+            </description>
+        </release>
+        <release version="3.82.1" date="2021-02-25">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.1
+            </description>
+        </release>
+        <release version="3.81.8" date="2021-02-12">
+            <description>
+                What's new
 
-          Change bundling of the app to make load faster #2671
-          Make sender confirm large number of recipients in "to" #2620
+                Change bundling of the app to make load faster #2671
+                Make sender confirm large number of recipients in "to" #2620
 
-          Bufixes
+                Bufixes
 
-          Fix cancelling delete action #2684
-          Fix export skipping some emails #2637
-          Fix multiselect/delete on mobile #2700 #2701 #2117
-        </description>
-      </release>
+                Fix cancelling delete action #2684
+                Fix export skipping some emails #2637
+                Fix multiselect/delete on mobile #2700 #2701 #2117
+            </description>
+        </release>
         <release version="3.81.3" date="2021-02-03">
-          <description>
-            <p>Bugfixes</p>
-            <ul>
-              <li>Fix loading long-running calendar events</li>
-            </ul>
-          </description>
+            <description>
+                <p>Bugfixes</p>
+                <ul>
+                    <li>Fix loading long-running calendar events</li>
+                </ul>
+            </description>
         </release>
         <release version="3.81.2" date="2021-02-01">
-          <description>
-            <p>What's new</p>
-            <ul>
-              <li>Faster and smaller app</li>
-              <li>Redirect to payment dialog on exceeded storage</li>
-            </ul>
-            <p>Bugfixes</p>
-            <ul>
-              <li>Fix "show all" button for attachments</li>
-              <li>Fix tabbing from email fields in mail editor</li>
-              <li>Fix overflow for location in calendar</li>
-              <li>Fix race condition in indexer</li>
-              <li>Fixes for payment process</li>
-            </ul>
-          </description>
+            <description>
+                <p>What's new</p>
+                <ul>
+                    <li>Faster and smaller app</li>
+                    <li>Redirect to payment dialog on exceeded storage</li>
+                </ul>
+                <p>Bugfixes</p>
+                <ul>
+                    <li>Fix "show all" button for attachments</li>
+                    <li>Fix tabbing from email fields in mail editor</li>
+                    <li>Fix overflow for location in calendar</li>
+                    <li>Fix race condition in indexer</li>
+                    <li>Fixes for payment process</li>
+                </ul>
+            </description>
         </release>
-      <release version="3.80.5" date="2021-01-22">
-        <description>
-          <p>What's new</p>
-          <ul>
-            <li> Notify admin if CNAME entry is missing for whitelabel certificate renewal</li>
-            <li> Allow business use for European business customers if VAT ID number is not available</li>
-          </ul>
-          <p>Bugfixes</p>
-          <ul>
-            <li>Print option visible on iOS</li>
-            <li>Closing a dialog on login page will trigger login</li>
-            <li>Safari doesn't support U2F, client shouldnt try to do U2F setup or authentication</li>
-            <li>After Paypal confirmation a blank page is shown for mobile apps android</li>
-            <li>Cannot import calendar ical files</li>
-            <li>Contact import fails</li>
-            <li>[android] Back button in contacts view opens email view</li>
-            <li>Language name not sorted alphabetically in language selection</li>
-            <li>Incorrect vat rate is shown in invoice for Poland</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.80.4" date="2021-01-12">
-        <description>
-          <p>What's new:</p>
-          <ul>
-            <li>Gift card improvements</li>
-            <li>Performance improvements</li>
-          </ul>
-          <p>Bugfixes:</p>
-          <ul>
-            <li>Fix progress bar getting stuck</li>
-            <li>Fix repeated offline message</li>
-            <li>Do not show progress bar when switching months in calendar</li>
-            <li>Fix printing mail addresses</li>
-            <li>Avoid multiple confirmaion dialogs for search</li>
-            <li>Avoid getting blocked on imporing calendar</li>
-            <li>Avoid selecting checkbox when link is clicked</li>
-            <li>Fix terms on gift card signup</li> 
-            <li>Fix button position changing (thanks @SnowyMouse!)</li>
-            <li>Updates after Brexit</li>
-            <li>Fix search button getting stuck after confirming indexing</li>
-            <li>Fix error with list on resizing</li>
-            <li>Fix checking number of aliases when adding a new one</li>
-            <li>Remove excessive logging</li>
-            <li>Fix saving email in trash as draft</li>
-            <li>Disallow reply/forward for drafts</li>
-            <li>Small fixes for shortcuts dialog</li>
-            <li>Avoid opening search when switching views</li>
-            <li>Fix logging cyclic objects</li>
-            <li>Fix event popup being stuck</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.80.2" date="2020-12-23">
-        <description>
-          <p>What's new</p>
-          <ul>
-            <li>3-D Secure 2 support for credit card payments</li>
-          </ul>
-          <p>Bugfixes</p>
-          <ul>
-            <li>Small bugfixes for gift cards</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.79.2" date="2020-12-18">
-        <description>
-	<p>What's new</p>
-	<ul>
-		<li>Gift cards</li>
-		<li>Update DOMPurify to 2.2.4 </li>
-		<li>Show progress bar for loading calendar when initially accessing it </li>
-	</ul>
-	<p>Bugfixes:</p>
-	<ul>
-		<li>Dialog for adding aliases does not redirect on "ok"</li>
-		<li>Too many empty lines between signature and email body</li>
-		<li>Do not load calendar events in parallel</li>
-		<li>Notification channel names are invalid</li>
-		<li>Do not restart SSE when new user is added</li>
-		<li>Quoted printable not supported for contact import</li>
-		<li>Improve colored text detection</li>
-		<li>MailViewer/MultMailViewer/MultiSearchViewer have different button positions</li>
-		<li>Weird behaviour of the Mail Editor </li>
-		<li>Failed assertion when reloading back in from settings view on firefox</li>
-		<li>Whitelabel 2FA form shows line 'more info' without link</li>
-	</ul>
-        </description>
-      </release>
-      <release version="3.78.2" date="2020-11-26">
-        <description>
-          <p>Improvements</p>
-          <ul>
-            <li>Reduce server requests by introducting a leader client</li>
-            <li>Remove Tutanota references on whitelabel domain</li>
-            <li>Improve settting the organizer of calendar event</li>
-          </ul>
-          <p>Bugfixes:</p>
-          <ul>
-            <li>Various bugfixes (thanks @SnowyMouse)</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.77.4" date="2020-11-04">
-        <description>
-          <p>Bugfixes:</p>
-          <ul>
-            <li>Security patches</li>
-            <li>Other small bugfixes</li>
-          </ul>
-        </description>
-      </release>
-      <release version="3.77.1" date="2020-10-27">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-release-3.77.1
-        </description>
-      </release>
+        <release version="3.80.5" date="2021-01-22">
+            <description>
+                <p>What's new</p>
+                <ul>
+                    <li>Notify admin if CNAME entry is missing for whitelabel certificate renewal</li>
+                    <li>Allow business use for European business customers if VAT ID number is not available</li>
+                </ul>
+                <p>Bugfixes</p>
+                <ul>
+                    <li>Print option visible on iOS</li>
+                    <li>Closing a dialog on login page will trigger login</li>
+                    <li>Safari doesn't support U2F, client shouldnt try to do U2F setup or authentication</li>
+                    <li>After Paypal confirmation a blank page is shown for mobile apps android</li>
+                    <li>Cannot import calendar ical files</li>
+                    <li>Contact import fails</li>
+                    <li>[android] Back button in contacts view opens email view</li>
+                    <li>Language name not sorted alphabetically in language selection</li>
+                    <li>Incorrect vat rate is shown in invoice for Poland</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.80.4" date="2021-01-12">
+            <description>
+                <p>What's new:</p>
+                <ul>
+                    <li>Gift card improvements</li>
+                    <li>Performance improvements</li>
+                </ul>
+                <p>Bugfixes:</p>
+                <ul>
+                    <li>Fix progress bar getting stuck</li>
+                    <li>Fix repeated offline message</li>
+                    <li>Do not show progress bar when switching months in calendar</li>
+                    <li>Fix printing mail addresses</li>
+                    <li>Avoid multiple confirmaion dialogs for search</li>
+                    <li>Avoid getting blocked on imporing calendar</li>
+                    <li>Avoid selecting checkbox when link is clicked</li>
+                    <li>Fix terms on gift card signup</li>
+                    <li>Fix button position changing (thanks @SnowyMouse!)</li>
+                    <li>Updates after Brexit</li>
+                    <li>Fix search button getting stuck after confirming indexing</li>
+                    <li>Fix error with list on resizing</li>
+                    <li>Fix checking number of aliases when adding a new one</li>
+                    <li>Remove excessive logging</li>
+                    <li>Fix saving email in trash as draft</li>
+                    <li>Disallow reply/forward for drafts</li>
+                    <li>Small fixes for shortcuts dialog</li>
+                    <li>Avoid opening search when switching views</li>
+                    <li>Fix logging cyclic objects</li>
+                    <li>Fix event popup being stuck</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.80.2" date="2020-12-23">
+            <description>
+                <p>What's new</p>
+                <ul>
+                    <li>3-D Secure 2 support for credit card payments</li>
+                </ul>
+                <p>Bugfixes</p>
+                <ul>
+                    <li>Small bugfixes for gift cards</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.79.2" date="2020-12-18">
+            <description>
+                <p>What's new</p>
+                <ul>
+                    <li>Gift cards</li>
+                    <li>Update DOMPurify to 2.2.4</li>
+                    <li>Show progress bar for loading calendar when initially accessing it</li>
+                </ul>
+                <p>Bugfixes:</p>
+                <ul>
+                    <li>Dialog for adding aliases does not redirect on "ok"</li>
+                    <li>Too many empty lines between signature and email body</li>
+                    <li>Do not load calendar events in parallel</li>
+                    <li>Notification channel names are invalid</li>
+                    <li>Do not restart SSE when new user is added</li>
+                    <li>Quoted printable not supported for contact import</li>
+                    <li>Improve colored text detection</li>
+                    <li>MailViewer/MultMailViewer/MultiSearchViewer have different button positions</li>
+                    <li>Weird behaviour of the Mail Editor</li>
+                    <li>Failed assertion when reloading back in from settings view on firefox</li>
+                    <li>Whitelabel 2FA form shows line 'more info' without link</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.78.2" date="2020-11-26">
+            <description>
+                <p>Improvements</p>
+                <ul>
+                    <li>Reduce server requests by introducting a leader client</li>
+                    <li>Remove Tutanota references on whitelabel domain</li>
+                    <li>Improve settting the organizer of calendar event</li>
+                </ul>
+                <p>Bugfixes:</p>
+                <ul>
+                    <li>Various bugfixes (thanks @SnowyMouse)</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.77.4" date="2020-11-04">
+            <description>
+                <p>Bugfixes:</p>
+                <ul>
+                    <li>Security patches</li>
+                    <li>Other small bugfixes</li>
+                </ul>
+            </description>
+        </release>
+        <release version="3.77.1" date="2020-10-27">
+            <description>
+                https://github.com/tutao/tutanota/releases/tutanota-release-3.77.1
+            </description>
+        </release>
         <release version="3.50.10" date="2019-04-25">
             <description>
                 <p>New:</p>
