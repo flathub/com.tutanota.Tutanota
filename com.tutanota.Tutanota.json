@@ -13,7 +13,7 @@
     "--socket=x11",
     "--socket=wayland",
     "--socket=pulseaudio",
-    "--socket=system-bus",
+    "--socket-system-bus",
     "--socket=session-bus",
     "--share=network",
     "--filesystem=host",
@@ -31,8 +31,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "465120a57728d259248e527c159cf83316339ca2cf9752f191be4c4a684e4f32",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-release-3.91.10/tutanota-desktop-3.91.10-unpacked-linux.tar.gz"
+          "sha256": "d0f182c212b9acee20d042c9a32aa806db6d22a5c3659f6f69ec72ae79360ec2",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.93.5/tutanota-desktop-release-3.93.5-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
