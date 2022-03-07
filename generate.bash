@@ -6,14 +6,14 @@ set -eu
 [ -d tutanota ] || git clone --depth 20 https://github.com/tutao/tutanota.git
 cd tutanota
 git fetch
-TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-release-*"`
-if [[ $TAG == tutanota-release-* ]]; then
+TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-desktop-release-*"`
+if [[ $TAG == tutanota-desktop-release-* ]]; then
    echo $TAG
  else
-   echo "tag ${TAG} doesn't match tutanota-release-*"
+   echo "tag ${TAG} doesn't match tutanota-desktop-release-*"
    exit 1
 fi
-VERSION=`echo ${TAG:17}`
+VERSION=`echo ${TAG:25}`
 ARCHIVE="tutanota-desktop-${VERSION}-unpacked-linux.tar.gz"
 URL="https://github.com/tutao/tutanota/releases/download/${TAG}/${ARCHIVE}"
 CHANGELOG_URL="https://github.com/tutao/tutanota/releases/${TAG}"
@@ -23,7 +23,7 @@ git checkout -f "${TAG}"
 # generate the client
 npm install
 npm run build-packages
-node dist --unpacked --custom-desktop-release
+node desktop --unpacked --custom-desktop-release
 cd ..
 
 echo "packing client"
