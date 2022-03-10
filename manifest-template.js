@@ -21,7 +21,6 @@ const manifest = {
 		"--socket=session-bus",
 		"--share=network",
 		"--filesystem=host",
-		"--filesystem=xdg-run/keyring",
 		"--talk-name=org.freedesktop.Notifications",
 		"--talk-name=org.freedesktop.secrets",
 		"--talk-name=org.kde.StatusNotifierWatcher",
