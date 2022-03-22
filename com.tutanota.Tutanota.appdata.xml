@@ -30,7 +30,19 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
+    
+    
     <releases>
+      <release version="3.94.1" date="2022-03-22">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.1
+        </description>
+      </release>
+      <release version="3.94.1" date="2022-03-22">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.1
+        </description>
+      </release>
       <release version="3.93.6" date="2022-03-10">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.93.6
