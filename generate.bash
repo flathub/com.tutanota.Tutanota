@@ -6,7 +6,9 @@ set -eu
 [ -d tutanota ] || git clone --depth 20 https://github.com/tutao/tutanota.git
 cd tutanota
 git fetch
-TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-desktop-release-*"`
+# Get the last desktop tag in tutanota. abbrev=0 is needed because if the tag is not on the top
+# then git-describe will add some identifier do denote that. We don't want any of that.
+TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-desktop-release-*" --abbrev=0`
 if [[ $TAG == tutanota-desktop-release-* ]]; then
    echo $TAG
  else
