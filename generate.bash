@@ -3,7 +3,7 @@
 set -eu
 
 # get the correct commit from the tutanota repo (last tag that matches tutanota-release*)
-[ -d tutanota ] || git clone --depth 20 https://github.com/tutao/tutanota.git
+[ -d tutanota ] || git clone --depth 200 https://github.com/tutao/tutanota.git
 cd tutanota
 git fetch
 # Get the last desktop tag in tutanota. abbrev=0 is needed because if the tag is not on the top
