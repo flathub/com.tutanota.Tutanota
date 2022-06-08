@@ -33,7 +33,13 @@
     
     
     
+    
     <releases>
+      <release version="3.96.13" date="2022-06-08">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.13
+        </description>
+      </release>
       <release version="3.96.11" date="2022-05-31">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.11
