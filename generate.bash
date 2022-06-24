@@ -3,12 +3,12 @@
 set -eu
 
 # get the correct commit from the tutanota repo (last tag that matches tutanota-release*)
-[ -d tutanota ] || git clone --depth 200 https://github.com/tutao/tutanota.git
+[ -d tutanota ] || git clone https://github.com/tutao/tutanota.git
 cd tutanota
 git fetch
 # Get the last desktop tag in tutanota. abbrev=0 is needed because if the tag is not on the top
 # then git-describe will add some identifier do denote that. We don't want any of that.
-TAG=`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-desktop-release-*" --abbrev=0`
+TAG="tutanota-desktop-release-3.98.1"  #`git describe --tags $(git rev-list --tags --max-count=1) --match "tutanota-desktop-release-*" --abbrev=0`
 if [[ $TAG == tutanota-desktop-release-* ]]; then
    echo $TAG
  else
