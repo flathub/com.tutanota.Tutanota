@@ -3,7 +3,12 @@
     <id type="desktop">com.tutanota.Tutanota</id>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3</project_license>
-    <name>Tutanota (preview)</name>
+
+
+
+
+
+    <name>Tutanota i(preview)</name>
     <summary>Encrypted email client</summary>
     <description>
         <p>Tutanota is an email client with a strong focus on security and
@@ -38,7 +43,13 @@
     
     
     
+    
     <releases>
+      <release version="3.98.14" date="2022-07-25">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.14
+        </description>
+      </release>
       <release version="3.98.12" date="2022-07-18">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.12
