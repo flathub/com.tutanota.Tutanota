@@ -41,7 +41,13 @@
     
     
     
+    
     <releases>
+      <release version="3.98.20" date="2022-08-08">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.20
+        </description>
+      </release>
       <release version="3.98.17" date="2022-08-02">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.17
