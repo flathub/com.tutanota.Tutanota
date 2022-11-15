@@ -9,17 +9,27 @@
   "separate-locales": false,
   "finish-args": [
     "--share=ipc",
+    "--device=dri",
     "--socket=x11",
-    "--socket=wayland",
     "--socket=pulseaudio",
-    "--socket=system-bus",
-    "--socket=session-bus",
     "--share=network",
-    "--filesystem=host",
     "--talk-name=org.freedesktop.Notifications",
     "--talk-name=org.freedesktop.secrets",
     "--talk-name=org.kde.StatusNotifierWatcher",
-    "--env=TMPDIR=/var/tmp"
+    "--env=TMPDIR=/var/tmp",
+    "--filesystem=host:ro",
+    "--filesystem=xdg-desktop",
+    "--filesystem=xdg-documents",
+    "--filesystem=xdg-download",
+    "--filesystem=xdg-music",
+    "--filesystem=xdg-pictures",
+    "--filesystem=xdg-public-share",
+    "--filesystem=xdg-videos",
+    "--talk-name=org.freedesktop.Notifications",
+    "--talk-name=org.kde.StatusNotifierWatcher",
+    "--talk-name=org.freedesktop.portal.Background",
+    "--talk-name=org.freedesktop.portal.Fcitx",
+    "--own-name=org.kde.*"
   ],
   "modules": [
     "shared-modules/libsecret/libsecret.json",
@@ -30,8 +40,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "d950061d4a3b5cc8f35b0af1176de00f773ff85940c9e49fcc042bbf9d9c8aa9",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.102.3/tutanota-desktop-3.102.3-unpacked-linux.tar.gz"
+          "sha256": "a3702255911937a4ff178973125f9e89db81933ada142755e98271704a7f8597",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.104.5/tutanota-desktop-3.104.5-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
