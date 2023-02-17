@@ -3,7 +3,7 @@
     <id type="desktop">com.tutanota.Tutanota</id>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3</project_license>
-    <name>Tutanota</name>
+    <name>Tutanota (Experimental)</name>
     <summary>Encrypted email client</summary>
     <description>
         <p>Tutanota is an email client with a strong focus on security and
@@ -30,7 +30,13 @@
     </screenshots>
     <url type="homepage">https://tutanota.com</url>
     <content_rating type="oars-1.1"/>
+    
     <releases>
+      <release version="3.109.4" date="2023-02-17">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.109.4
+        </description>
+      </release>
       <release version="3.108.12" date="2023-02-03">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.108.12
