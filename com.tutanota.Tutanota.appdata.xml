@@ -33,7 +33,13 @@
     
     
     
+    
     <releases>
+      <release version="3.110.1" date="2023-03-13">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.1
+        </description>
+      </release>
       <release version="3.110.0" date="2023-03-02">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.0
