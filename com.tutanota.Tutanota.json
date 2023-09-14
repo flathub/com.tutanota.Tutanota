@@ -10,7 +10,8 @@
   "finish-args": [
     "--share=ipc",
     "--device=dri",
-    "--socket=x11",
+    "--socket=wayland",
+    "--socket=fallback-x11",
     "--socket=pulseaudio",
     "--share=network",
     "--talk-name=org.freedesktop.Notifications",
@@ -48,7 +49,7 @@
           "dest-filename": "tutanota-desktop.sh",
           "commands": [
             "export TMPDIR=\"$XDG_RUNTIME_DIR/app/${FLATPAK_ID}\"",
-            "exec zypak-wrapper /app/lib/tutanota/tutanota-desktop \"$@\""
+            "exec zypak-wrapper /app/lib/tutanota/tutanota-desktop --ozone-platform-hint=auto \"$@\""
           ]
         }
       ],
