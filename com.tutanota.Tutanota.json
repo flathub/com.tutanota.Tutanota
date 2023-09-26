@@ -10,8 +10,7 @@
   "finish-args": [
     "--share=ipc",
     "--device=dri",
-    "--socket=wayland",
-    "--socket=fallback-x11",
+    "--socket=x11",
     "--socket=pulseaudio",
     "--share=network",
     "--talk-name=org.freedesktop.Notifications",
@@ -41,15 +40,15 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "d7647c83953ca7695735a49e2620af11be808020b8d230d70ca3bc93212f33ac",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.118.8/tutanota-desktop-3.118.8-unpacked-linux.tar.gz"
+          "sha256": "79fc0dbcdd4e23172ab6521be5406cbb2ab0b5fef0b943522ef44392744ff0f0",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.118.12/tutanota-desktop-3.118.12-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
           "dest-filename": "tutanota-desktop.sh",
           "commands": [
             "export TMPDIR=\"$XDG_RUNTIME_DIR/app/${FLATPAK_ID}\"",
-            "exec zypak-wrapper /app/lib/tutanota/tutanota-desktop --ozone-platform-hint=auto \"$@\""
+            "exec zypak-wrapper /app/lib/tutanota/tutanota-desktop \"$@\""
           ]
         }
       ],
