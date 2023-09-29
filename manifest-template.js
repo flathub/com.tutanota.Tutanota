@@ -31,13 +31,36 @@ const manifest = {
 		"--filesystem=xdg-pictures",
 		"--filesystem=xdg-public-share",
 		"--filesystem=xdg-videos",
+		"--filesystem=xdg-run/keyring",
 		"--talk-name=org.freedesktop.Notifications",
 		"--talk-name=org.kde.StatusNotifierWatcher",
 		"--talk-name=org.freedesktop.portal.Background",
 		"--talk-name=org.freedesktop.portal.Fcitx"
 	],
 	"modules": [
-		"shared-modules/libsecret/libsecret.json",
+		{
+			"name": "libsecret",
+			"buildsystem": "meson",
+			"config-opts": [
+				"-Dmanpage=false",
+				"-Dvapi=false",
+				"-Dgtk_doc=false",
+				"-Dintrospection=false"
+			],
+			"cleanup": [
+				"/bin",
+				"/include",
+				"/lib/pkgconfig",
+				"/share/man"
+			],
+			"sources": [
+				{
+					"type": "git",
+					"url": "https://github.com/tutao/libsecret.git",
+					"commit": "3d18f7e928d6de69457ec3d18d5ca84923191957"
+				}
+			]
+		},
 		{
 			"name": "tutanota",
 			"buildsystem": "simple",
