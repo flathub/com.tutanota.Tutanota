@@ -15,6 +15,7 @@ const manifest = {
 	"finish-args": [
 		"--share=ipc",
 		"--device=dri",
+		"--socket=wayland",
 		"--socket=x11",
 		"--socket=pulseaudio",
 		"--share=network",
@@ -33,8 +34,7 @@ const manifest = {
 		"--talk-name=org.freedesktop.Notifications",
 		"--talk-name=org.kde.StatusNotifierWatcher",
 		"--talk-name=org.freedesktop.portal.Background",
-		"--talk-name=org.freedesktop.portal.Fcitx",
-		"--own-name=org.kde.*"
+		"--talk-name=org.freedesktop.portal.Fcitx"
 	],
 	"modules": [
 		"shared-modules/libsecret/libsecret.json",
