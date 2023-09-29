@@ -4,7 +4,7 @@
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3</project_license>
     <name>Tutanota (Experimental)</name>
-    <summary>Secure &amp; private email, encrypted calendar &amp; contacts - all in one place!</summary>
+    <summary>Secure email, calendar &amp; contacts</summary>
     <description>
         <p>Tutanota is an email client with a strong focus on security and
             privacy that lets you encrypt emails on all your devices.
@@ -30,12 +30,27 @@
     <developer_name>Tutao GmbH</developer_name>
     <screenshots>
         <screenshot type="default">
-            <image>https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_flatpak_main.png
+            <caption>Screenshot of the mailbox</caption>
+            <image>
+                https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_mail.png
             </image>
         </screenshot>
         <screenshot>
+            <caption>Screenshot of the calendar</caption>
             <image>
-                https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_flatpak_contacts.png
+                https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_calendar.png
+            </image>
+        </screenshot>
+        <screenshot>
+            <caption>Screenshot of the contacts</caption>
+            <image>
+                https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_contacts.png
+            </image>
+        </screenshot>
+        <screenshot>
+            <caption>Screenshot of the search</caption>
+            <image>
+                https://raw.githubusercontent.com/flathub/com.tutanota.Tutanota/master/screenshot_search.png
             </image>
         </screenshot>
     </screenshots>
@@ -213,7 +228,7 @@
       </release>
       <release version="3.95.4" date="2022-04-21">
         <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.95.4 
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.95.4
         </description>
       </release>
       <release version="3.94.9" date="2022-04-12">
