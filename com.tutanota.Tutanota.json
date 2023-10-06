@@ -10,8 +10,8 @@
   "finish-args": [
     "--share=ipc",
     "--device=dri",
-    "--socket=x11",
     "--socket=wayland",
+    "--socket=x11",
     "--socket=pulseaudio",
     "--share=network",
     "--talk-name=org.freedesktop.secrets",
@@ -29,29 +29,29 @@
     "--talk-name=org.freedesktop.portal.Fcitx"
   ],
   "modules": [
-	  {
-		  "name": "libsecret",
-		  "buildsystem": "meson",
-		  "config-opts": [
-			  "-Dmanpage=false",
-			  "-Dvapi=false",
-			  "-Dgtk_doc=false",
-			  "-Dintrospection=false"
-		  ],
-		  "cleanup": [
-			  "/bin",
-			  "/include",
-			  "/lib/pkgconfig",
-			  "/share/man"
-		  ],
-		  "sources": [
-			  {
-				  "type": "git",
-				  "url": "https://github.com/tutao/libsecret.git",
-				  "commit": "3d18f7e928d6de69457ec3d18d5ca84923191957"
-			  }
-		  ]
-	  },
+    {
+      "name": "libsecret",
+      "buildsystem": "meson",
+      "config-opts": [
+        "-Dmanpage=false",
+        "-Dvapi=false",
+        "-Dgtk_doc=false",
+        "-Dintrospection=false"
+      ],
+      "cleanup": [
+        "/bin",
+        "/include",
+        "/lib/pkgconfig",
+        "/share/man"
+      ],
+      "sources": [
+        {
+          "type": "git",
+          "url": "https://github.com/tutao/libsecret.git",
+          "commit": "3d18f7e928d6de69457ec3d18d5ca84923191957"
+        }
+      ]
+    },
     {
       "name": "tutanota",
       "buildsystem": "simple",
@@ -59,8 +59,8 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "79fc0dbcdd4e23172ab6521be5406cbb2ab0b5fef0b943522ef44392744ff0f0",
-          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.118.12/tutanota-desktop-3.118.12-unpacked-linux.tar.gz"
+          "sha256": "de4a5f17f5c6ef0eaa528a12e54b27b4c2a78201b52e1995f5ff91df992499bd",
+          "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-3.118.13/tutanota-desktop-3.118.13-unpacked-linux.tar.gz"
         },
         {
           "type": "script",
