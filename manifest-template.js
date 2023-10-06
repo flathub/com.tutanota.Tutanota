@@ -6,9 +6,9 @@ const [hash, url] = process.argv.slice(2)
 const manifest = {
 	"app-id": "com.tutanota.Tutanota",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "22.08",
+	"runtime-version": "23.08",
 	"base": "org.electronjs.Electron2.BaseApp",
-	"base-version": "22.08",
+	"base-version": "23.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "tutanota-desktop",
 	"separate-locales": false,
@@ -19,7 +19,6 @@ const manifest = {
 		"--socket=x11",
 		"--socket=pulseaudio",
 		"--share=network",
-		"--talk-name=org.freedesktop.Notifications",
 		"--talk-name=org.freedesktop.secrets",
 		"--talk-name=org.kde.StatusNotifierWatcher",
 		"--env=TMPDIR=/var/tmp",
@@ -32,9 +31,6 @@ const manifest = {
 		"--filesystem=xdg-public-share",
 		"--filesystem=xdg-videos",
 		"--filesystem=xdg-run/keyring",
-		"--talk-name=org.freedesktop.Notifications",
-		"--talk-name=org.kde.StatusNotifierWatcher",
-		"--talk-name=org.freedesktop.portal.Background",
 		"--talk-name=org.freedesktop.portal.Fcitx"
 	],
 	"modules": [
