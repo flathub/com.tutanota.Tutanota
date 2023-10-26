@@ -29,7 +29,7 @@ node desktop --unpacked --custom-desktop-release
 cd ..
 
 echo "packing client"
-(cd ./tutanota/build/desktop && tar -czvf ../../../${ARCHIVE} ./linux-unpacked > /dev/null)
+(cd ./tutanota/artifacts/desktop && tar -czvf ../../../${ARCHIVE} ./linux-unpacked > /dev/null)
 
 CHECKSUM=`sha256sum ${ARCHIVE} | head -c64`
 echo SHA256 CHECKSUM:
