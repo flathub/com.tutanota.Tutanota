@@ -3,10 +3,10 @@
     <id type="desktop">com.tutanota.Tutanota</id>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3</project_license>
-    <name>Tutanota (Experimental)</name>
+    <name>Tuta (Experimental)</name>
     <summary>Secure email, calendar &amp; contacts</summary>
     <description>
-        <p>Tutanota is an email client with a strong focus on security and
+        <p>Tuta mail is an email client with a strong focus on security and
             privacy that lets you encrypt emails on all your devices.
         </p>
         <p>
@@ -20,7 +20,7 @@
             this is the go-to app to protect your private emails and calendars from prying eyes.
         </p>
         <p>
-            Tutanota's secure email app also has an encrypted calendar &amp; encrypted contacts, all in one place.
+            Tuta's secure email app also has an encrypted calendar &amp; encrypted contacts, all in one place.
             Tutanota enables you to use the benefits of the cloud - availability, flexibility, automatic back-up -
             without compromising on security or privacy. With Tutanota's built-in encryption you own your data, no one
             else can access your private emails, calendars or contacts.
@@ -54,7 +54,7 @@
             </image>
         </screenshot>
     </screenshots>
-    <url type="homepage">https://tutanota.com</url>
+    <url type="homepage">https://tuta.com</url>
     <content_rating type="oars-1.1"/>
     <releases>
       <release version="3.118.25" date="2023-11-07">
