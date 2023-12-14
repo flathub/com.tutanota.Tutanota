@@ -62,14 +62,14 @@ modules:
         dest-filename: tutanota-desktop.sh
         commands:
           - export TMPDIR="$XDG_RUNTIME_DIR/app/${FLATPAK_ID}"
-          - exec zypak-wrapper /app/lib/tutanota/tutanota-desktop --ozone-platform-hint=auto "$@"
+          - exec zypak-wrapper /app/tutanota/tutanota-desktop --ozone-platform-hint=auto "$@"
     build-commands:
       - tar -xf tutanota-unpacked-linux.tar.gz --transform="s/linux-unpacked/tutanota/" --directory="${FLATPAK_DEST}"
       - |
         for size in 64 512; do
           install -Dm0644 "${FLATPAK_DEST}/tutanota/resources/icons/icon/${size}.png" "${FLATPAK_DEST}/share/icons/hicolor/${size}x${size}/apps/com.tutanota.Tutanota.png"
         done
-      - install -Dm755 tutanota-desktop.sh /app/bin/tutanota-desktop
+      - install -Dm755 tutanota-desktop.sh "${FLATPAK_DEST}/bin/tutanota-desktop"
   - name: metadata
     buildsystem: simple
     sources:
@@ -78,5 +78,5 @@ modules:
       - type: file
         path: com.tutanota.Tutanota.desktop
     build-commands:
-      - install -Dm644 com.tutanota.Tutanota.appdata.xml /app/share/appdata/com.tutanota.Tutanota.appdata.xml
-      - install -Dm644 com.tutanota.Tutanota.desktop /app/share/applications/com.tutanota.Tutanota.desktop
+      - install -Dm644 com.tutanota.Tutanota.appdata.xml "${FLATPAK_DEST}/share/appdata/com.tutanota.Tutanota.appdata.xml"
+      - install -Dm644 com.tutanota.Tutanota.desktop "${FLATPAK_DEST}/share/applications/com.tutanota.Tutanota.desktop"
