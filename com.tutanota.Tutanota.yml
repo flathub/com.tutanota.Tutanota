@@ -34,6 +34,8 @@ finish-args:
   - --filesystem=xdg-run/keyring
   # Allow advanced input methods
   - --talk-name=org.freedesktop.portal.Fcitx
+  # Allow printing
+  - --socket=cups
 modules:
   - name: libsecret
     buildsystem: meson
