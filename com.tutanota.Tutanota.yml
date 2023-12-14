@@ -22,6 +22,8 @@ finish-args:
   - --talk-name=org.freedesktop.secrets
   - --talk-name=org.kde.StatusNotifierWatcher
   - --env=TMPDIR=/var/tmp
+  # Allow FIDO2/Smartcard Access
+  - --socket=pcsc
   # File system Access
   - --filesystem=host:ro
   - --filesystem=xdg-desktop
