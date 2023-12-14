@@ -1,2 +1,4 @@
 .idea/**/*
 *.tar.gz
+.flatpak-builder/
+build/
