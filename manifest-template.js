@@ -4,7 +4,7 @@ const fs = require('fs')
 const [hash, url] = process.argv.slice(2)
 
 const manifest = {
-	"app-id": "com.tutanota.Tutanota",
+	"id": "com.tutanota.Tutanota",
 	"runtime": "org.freedesktop.Platform",
 	"runtime-version": "23.08",
 	"base": "org.electronjs.Electron2.BaseApp",
