@@ -93,7 +93,7 @@ const manifest = {
 			"sources": [
 				{
 					"type": "file",
-					"path": "com.tutanota.Tutanota.appdata.xml"
+					"path": "com.tutanota.Tutanota.metainfo.xml"
 				},
 				{
 					"type": "file",
@@ -101,7 +101,7 @@ const manifest = {
 				}
 			],
 			"build-commands": [
-				"install -Dm644 com.tutanota.Tutanota.appdata.xml /app/share/appdata/com.tutanota.Tutanota.appdata.xml",
+				"install -Dm644 com.tutanota.Tutanota.metainfo.xml /app/share/appdata/com.tutanota.Tutanota.metainfo.xml",
 				"install -Dm644 com.tutanota.Tutanota.desktop /app/share/applications/com.tutanota.Tutanota.desktop"
 			]
 		}

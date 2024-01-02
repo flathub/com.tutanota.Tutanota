@@ -40,11 +40,11 @@ node ./manifest-template.js $CHECKSUM $URL
 
 # update appdata
 node ./appdata-update.js $VERSION $DATE $CHANGELOG_URL
-${VISUAL:-${EDITOR:-vi}} ./com.tutanota.Tutanota.appdata.xml.tmp
-mv ./com.tutanota.Tutanota.appdata.xml.tmp ./com.tutanota.Tutanota.appdata.xml
+${VISUAL:-${EDITOR:-vi}} ./com.tutanota.Tutanota.metainfo.xml.tmp
+mv ./com.tutanota.Tutanota.metainfo.xml.tmp ./com.tutanota.Tutanota.metainfo.xml
 
 # clean up
-rm -rf ./.idea ./generate-cache ./tutanota ./com.tutanota.Tutanota.appdata.xml.tmp
+rm -rf ./.idea ./generate-cache ./tutanota ./com.tutanota.Tutanota.metainfo.xml.tmp
 
 # new branch, git commit & push to flathub repo
 git branch -D ${TAG} || true
