@@ -1,7 +1,7 @@
 FLATPAK := $(shell which flatpak)
 FLATPAK_BUILDER := $(shell which flatpak-builder)
 
-FLATPAK_MANIFEST=com.tutanota.Tutanota.yml
+FLATPAK_MANIFEST=com.tutanota.Tutanota.json
 FLATPAK_APPID=com.tutanota.Tutanota
 
 FLATPAK_BUILD_FLAGS := --verbose --force-clean --install-deps-from=flathub --ccache
