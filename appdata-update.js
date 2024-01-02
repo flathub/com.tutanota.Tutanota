@@ -12,11 +12,11 @@ const newRelease = `
         </description>
       </release>`
 
-const appdata = fs.readFileSync('./com.tutanota.Tutanota.appdata.xml', "utf8")
+const appdata = fs.readFileSync('./com.tutanota.Tutanota.metainfo.xml', "utf8")
     .replace(/<releases>/g, newRelease)
 
 try {
-    fs.unlinkSync('com.tutanota.Tutanota.appdata.xml.tmp')
+    fs.unlinkSync('com.tutanota.Tutanota.metainfo.xml.tmp')
 } catch {
 }
-fs.writeFileSync('com.tutanota.Tutanota.appdata.xml.tmp', appdata)
+fs.writeFileSync('com.tutanota.Tutanota.metainfo.xml.tmp', appdata)
