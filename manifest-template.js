@@ -72,7 +72,7 @@ const manifest = {
 					"dest-filename": "tutanota-desktop.sh",
 					"commands": [
 						"export TMPDIR=\"$XDG_RUNTIME_DIR/app/${FLATPAK_ID}\"",
-						"exec zypak-wrapper /app/lib/tutanota/tutanota-desktop --ozone-platform-hint=auto \"$@\""
+						"exec zypak-wrapper /app/lib/tutanota/tutanota-desktop \"$@\""
 					]
 				}
 			],
