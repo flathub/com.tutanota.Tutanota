@@ -31,7 +31,8 @@ const manifest = {
 		"--filesystem=xdg-public-share",
 		"--filesystem=xdg-videos",
 		"--filesystem=xdg-run/keyring",
-		"--talk-name=org.freedesktop.portal.Fcitx"
+		"--talk-name=org.freedesktop.portal.Fcitx",
+		"--system-talk-name=org.freedesktop.login1"
 	],
 	"modules": [
 		{
