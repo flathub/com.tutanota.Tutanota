@@ -30,8 +30,7 @@ const manifest = {
 		"--filesystem=xdg-pictures",
 		"--filesystem=xdg-public-share",
 		"--filesystem=xdg-videos",
-		"--filesystem=xdg-run/keyring",
-		"--talk-name=org.freedesktop.portal.Fcitx"
+		"--filesystem=xdg-run/keyring"
 	],
 	"modules": [
 		{
