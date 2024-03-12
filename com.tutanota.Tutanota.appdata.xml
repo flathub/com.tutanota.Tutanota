@@ -62,7 +62,13 @@
     
     
     
+    
     <releases>
+      <release version="218.240307.1" date="2024-03-12">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240307.1
+        </description>
+      </release>
       <release version="218.240219.0" date="2024-02-20">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240219.0
