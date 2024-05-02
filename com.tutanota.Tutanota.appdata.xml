@@ -59,8 +59,12 @@
     <url type="help">https://tuta.com/support</url>
     <url type="donation">https://tuta.com/community#donate</url>
     <content_rating type="oars-1.1"/>
-    
     <releases>
+      <release version="227.240502.0" date="2024-05-02">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240502.0
+        </description>
+      </release>
       <release version="227.240429.0" date="2024-04-29">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240429.0
