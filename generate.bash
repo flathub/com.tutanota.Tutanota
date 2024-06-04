@@ -21,6 +21,8 @@ URL="https://github.com/tutao/tutanota/releases/download/${TAG}/${ARCHIVE}"
 CHANGELOG_URL="https://github.com/tutao/tutanota/releases/${TAG}"
 DATE=`date +"%Y-%m-%d"`
 git checkout -f "${TAG}"
+git submodule init 
+git submodule update
 
 # generate the client
 npm install
