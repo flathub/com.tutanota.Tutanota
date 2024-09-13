@@ -61,7 +61,13 @@
     <content_rating type="oars-1.1"/>
     
     
+    
     <releases>
+      <release version="244.240913.1" date="2024-09-13">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240913.1
+        </description>
+      </release>
       <release version="244.240903.0" date="2024-09-03">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240903.0
