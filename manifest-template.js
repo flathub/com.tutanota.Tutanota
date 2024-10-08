@@ -22,7 +22,7 @@ const manifest = {
 		"--talk-name=org.freedesktop.secrets",
 		"--talk-name=org.kde.StatusNotifierWatcher",
 		"--env=TMPDIR=/var/tmp",
-		"--device=all",
+		"--device=all"
 	],
 	"modules": [
 		{
