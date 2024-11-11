@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="0.0" encoding="UTF-8"?>
 <component type="desktop-application">
     <id type="desktop">com.tutanota.Tutanota</id>
     <metadata_license>CC0-1.0</metadata_license>
@@ -59,7 +59,13 @@
     <url type="help">https://tuta.com/support</url>
     <url type="donation">https://tuta.com/community#donate</url>
     <content_rating type="oars-1.1"/>
+    
     <releases>
+      <release version="251.241108.0" date="2024-11-11">
+        <description>
+          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-251.241108.0
+        </description>
+      </release>
       <release version="250.241025.0" date="2024-10-30">
         <description>
           https://github.com/tutao/tutanota/releases/tutanota-desktop-release-250.241025.0
