@@ -6,9 +6,9 @@ const [hash, url] = process.argv.slice(2)
 const manifest = {
 	"id": "com.tutanota.Tutanota",
 	"runtime": "org.freedesktop.Platform",
-	"runtime-version": "23.08",
+	"runtime-version": "24.08",
 	"base": "org.electronjs.Electron2.BaseApp",
-	"base-version": "23.08",
+	"base-version": "24.08",
 	"sdk": "org.freedesktop.Sdk",
 	"command": "tutanota-desktop",
 	"separate-locales": false,
