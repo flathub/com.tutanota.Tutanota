@@ -77,7 +77,7 @@ const manifest = {
 				}
 			],
 			"build-commands": [
-				"tar -xf tutanota-unpacked-linux.tar.gz",
+				"tar -xf tutanota-unpacked-linux.tar.gz --no-same-owner",
 				"rm tutanota-unpacked-linux.tar.gz",
 				"mkdir -p /app/lib/",
 				"cp -r linux-unpacked /app/lib/tutanota",
