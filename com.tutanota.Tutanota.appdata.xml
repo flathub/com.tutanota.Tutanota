@@ -59,614 +59,970 @@
     <url type="help">https://tuta.com/support</url>
     <url type="donation">https://tuta.com/community#donate</url>
     <content_rating type="oars-1.1"/>
-    
-    
-    
-    
+
+
     <releases>
-      <release version="299.250715.0" date="2025-07-16">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-299.250715.0
-        </description>
-      </release>
-      <release version="296.250709.0" date="2025-07-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-296.250709.0
-        </description>
-      </release>
-      <release version="296.250708.0" date="2025-07-08">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-296.250708.0
-        </description>
-      </release>
-      <release version="293.250624.0" date="2025-06-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-293.250624.0
-        </description>
-      </release>
-      <release version="287.250616.0" date="2025-06-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-287.250616.0
-        </description>
-      </release>
-      <release version="284.250513.1" date="2025-05-14">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-284.250513.1
-        </description>
-      </release>
-      <release version="277.250414.1" date="2025-04-14">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-277.250414.1
-        </description>
-      </release>
-      <release version="275.250324.1" date="2025-03-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-275.250324.1
-        </description>
-      </release>
-      <release version="274.250312.0" date="2025-03-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-274.250312.0
-        </description>
-      </release>
-      <release version="270.250219.0" date="2025-02-19">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-270.250219.0
-        </description>
-      </release>
-      <release version="270.250214.0" date="2025-02-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-270.250214.0
-        </description>
-      </release>
-      <release version="267.250206.0" date="2025-02-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-267.250206.0
-        </description>
-      </release>
-      <release version="264.250130.1" date="2025-01-31">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-264.250130.1
-        </description>
-      </release>
-      <release version="262.250122.0" date="2025-01-23">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-262.250122.0
-        </description>
-      </release>
-      <release version="261.250116.0" date="2025-01-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-261.250116.0
-        </description>
-      </release>
-      <release version="259.250113.0" date="2025-01-14">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.250113.0
-        </description>
-      </release>
-      <release version="259.241223.0" date="2024-12-23">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.241223.0
-        </description>
-      </release>
-      <release version="259.241220.0" date="2024-12-23">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.241220.0
-        </description>
-      </release>
-      <release version="253.241126.2" date="2024-12-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-253.241126.2
-        </description>
-      </release>
-      <release version="252.241122.0" date="2024-11-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-252.241122.0
-        </description>
-      </release>
-      <release version="251.241108.0" date="2024-11-11">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-251.241108.0
-        </description>
-      </release>
-      <release version="250.241025.0" date="2024-10-30">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-250.241025.0
-        </description>
-      </release>
-      <release version="246.241004.0" date="2024-10-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-246.241004.0
-        </description>
-      </release>
-      <release version="244.240913.1" date="2024-09-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240913.1
-        </description>
-      </release>
-      <release version="244.240903.0" date="2024-09-03">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240903.0
-        </description>
-      </release>
-      <release version="244.240830.0" date="2024-09-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240830.0
-        </description>
-      </release>
-      <release version="240.240816.0" date="2024-08-16">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-240.240816.0
-        </description>
-      </release>
-      <release version="235.240718.0" date="2024-07-19">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240718.0
-        </description>
-      </release>
-      <release version="235.240712.0" date="2024-07-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240712.0
-        </description>
-      </release>
-      <release version="235.240709.0" date="2024-07-11">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240709.0
-        </description>
-      </release>
-      <release version="234.240627.0" date="2024-07-03">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-234.240627.0
-        </description>
-      </release>
-      <release version="232.240626.0" date="2024-06-26">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-232.240626.0
-        </description>
-      </release>
-      <release version="230.240603.0" date="2024-06-04">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-230.240603.0
-        </description>
-      </release>
-      <release version="229.240514.1" date="2024-05-14">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-229.240514.1
-        </description>
-      </release>
-      <release version="229.240513.0" date="2024-05-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-229.240513.0
-        </description>
-      </release>
-      <release version="227.240502.0" date="2024-05-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240502.0
-        </description>
-      </release>
-      <release version="227.240429.0" date="2024-04-29">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240429.0
-        </description>
-      </release>
-      <release version="220.240411.0" date="2024-04-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240411.0
-        </description>
-      </release>
-      <release version="220.240408.0" date="2024-04-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240408.0
-        </description>
-      </release>
-      <release version="220.240403.0" date="2024-04-04">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240403.0
-        </description>
-      </release>
-      <release version="220.240321.0" date="2024-03-21">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240321.0
-        </description>
-      </release>
-      <release version="220.240319.1" date="2024-03-19">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240319.1
-        </description>
-      </release>
-      <release version="218.240307.1" date="2024-03-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240307.1
-        </description>
-      </release>
-      <release version="218.240219.0" date="2024-02-20">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240219.0
-        </description>
-      </release>
-      <release version="3.122.5" date="2024-02-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.5
-        </description>
-      </release>
-      <release version="3.122.4" date="2024-02-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.4
-        </description>
-      </release>
-      <release version="3.122.3" date="2024-02-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.3
-        </description>
-      </release>
-      <release version="3.121.4" date="2024-01-24">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.121.4
-        </description>
-      </release>
-      <release version="3.120.6" date="2024-01-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.120.6
-        </description>
-      </release>
-      <release version="3.119.10" date="2023-12-21">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.10
-        </description>
-      </release>
-      <release version="3.119.8" date="2023-12-18">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.8
-        </description>
-      </release>
-      <release version="3.119.3" date="2023-12-05">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.3
-        </description>
-      </release>
-      <release version="3.118.30" date="2023-11-15">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.30
-        </description>
-      </release>
-      <release version="3.118.27" date="2023-11-10">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.27
-        </description>
-      </release>
-      <release version="3.118.25" date="2023-11-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.25
-        </description>
-      </release>
-      <release version="3.118.22" date="2023-10-26">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.22
-        </description>
-      </release>
-      <release version="3.118.13" date="2023-10-06">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.13
-        </description>
-      </release>
-      <release version="3.118.12-1" date="2023-09-28">
-        <description>
-            <ul>
-                <li>Fixed secret storage issues</li>
-                <li>Enabled Wayland support</li>
-            </ul>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.12
-        </description>
-      </release>
-      <release version="3.118.12" date="2023-09-26">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.12
-        </description>
-      </release>
-      <release version="3.118.8" date="2023-09-19">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.8
-        </description>
-      </release>
-      <release version="3.118.7" date="2023-09-14">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.7
-        </description>
-      </release>
-      <release version="3.118.6" date="2023-09-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.6
-        </description>
-      </release>
-      <release version="3.116.8" date="2023-08-10">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.116.8
-        </description>
-      </release>
-      <release version="3.115.2" date="2023-07-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.115.2
-        </description>
-      </release>
-      <release version="3.113.3" date="2023-06-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.113.3
-        </description>
-      </release>
-      <release version="3.112.6" date="2023-04-06">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.112.6
-        </description>
-      </release>
-      <release version="3.112.5" date="2023-04-03">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.112.5
-        </description>
-      </release>
-      <release version="3.110.1" date="2023-03-13">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.1
-        </description>
-      </release>
-      <release version="3.110.0" date="2023-03-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.0
-        </description>
-      </release>
-      <release version="3.109.13" date="2023-03-01">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.109.13
-        </description>
-      </release>
-      <release version="3.109.4" date="2023-02-17">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.109.4
-        </description>
-      </release>
-      <release version="3.108.12" date="2023-02-03">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.108.12
-        </description>
-      </release>
-      <release version="3.108.10" date="2023-01-30">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.108.10
-        </description>
-      </release>
-      <release version="3.106.4" date="2022-12-22">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.106.4
-        </description>
-      </release>
-      <release version="3.105.9" date="2022-12-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.105.9
-        </description>
-      </release>
-      <release version="3.104.5" date="2022-11-15">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.104.5
-        </description>
-      </release>
-      <release version="3.102.3" date="2022-10-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.102.3
-        </description>
-      </release>
-      <release version="3.98.20" date="2022-08-08">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.20
-        </description>
-      </release>
-      <release version="3.98.17" date="2022-08-02">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.17
-        </description>
-      </release>
-      <release version="3.98.15" date="2022-07-26">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.15
-        </description>
-      </release>
-      <release version="3.98.14" date="2022-07-25">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.14
-        </description>
-      </release>
-      <release version="3.98.12" date="2022-07-18">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.12
-        </description>
-      </release>
-      <release version="3.98.4" date="2022-06-28">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.4
-        </description>
-      </release>
-      <release version="3.98.1" date="2022-06-24">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.1
-        </description>
-      </release>
-      <release version="3.98.0" date="2022-06-15">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.0
-        </description>
-      </release>
-      <release version="3.96.13" date="2022-06-08">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.13
-        </description>
-      </release>
-      <release version="3.96.11" date="2022-05-31">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.11
-        </description>
-      </release>
-      <release version="3.96.7" date="2022-05-27">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.7
-        </description>
-      </release>
-      <release version="3.96.6" date="2022-05-19">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.6
-        </description>
-      </release>
-      <release version="3.96.3" date="2022-05-09">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.3
-        </description>
-      </release>
-      <release version="3.95.4" date="2022-04-21">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.95.4
-        </description>
-      </release>
-      <release version="3.94.9" date="2022-04-12">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.9
-        </description>
-      </release>
-      <release version="3.94.2" date="2022-03-24">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.2
-        </description>
-      </release>
-      <release version="3.93.6" date="2022-03-10">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.93.6
-        </description>
-      </release>
-      <release version="3.93.5" date="2022-03-07">
-        <description>
-          https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.93.5
-        </description>
-      </release>
+        <release version="299.250715.0" date="2025-07-16">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-299.250715.0
+                </p>
+            </description>
+        </release>
+        <release version="296.250709.0" date="2025-07-09">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-296.250709.0
+                </p>
+            </description>
+        </release>
+        <release version="296.250708.0" date="2025-07-08">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-296.250708.0
+                </p>
+            </description>
+        </release>
+        <release version="293.250624.0" date="2025-06-25">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-293.250624.0
+                </p>
+            </description>
+        </release>
+        <release version="287.250616.0" date="2025-06-17">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-287.250616.0
+                </p>
+            </description>
+        </release>
+        <release version="284.250513.1" date="2025-05-14">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-284.250513.1
+                </p>
+            </description>
+        </release>
+        <release version="277.250414.1" date="2025-04-14">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-277.250414.1
+                </p>
+            </description>
+        </release>
+        <release version="275.250324.1" date="2025-03-25">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-275.250324.1
+                </p>
+            </description>
+        </release>
+        <release version="274.250312.0" date="2025-03-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-274.250312.0
+                </p>
+            </description>
+        </release>
+        <release version="270.250219.0" date="2025-02-19">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-270.250219.0
+                </p>
+            </description>
+        </release>
+        <release version="270.250214.0" date="2025-02-17">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-270.250214.0
+                </p>
+            </description>
+        </release>
+        <release version="267.250206.0" date="2025-02-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-267.250206.0
+                </p>
+            </description>
+        </release>
+        <release version="264.250130.1" date="2025-01-31">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-264.250130.1
+                </p>
+            </description>
+        </release>
+        <release version="262.250122.0" date="2025-01-23">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-262.250122.0
+                </p>
+            </description>
+        </release>
+        <release version="261.250116.0" date="2025-01-17">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-261.250116.0
+                </p>
+            </description>
+        </release>
+        <release version="259.250113.0" date="2025-01-14">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.250113.0
+                </p>
+            </description>
+        </release>
+        <release version="259.241223.0" date="2024-12-23">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.241223.0
+                </p>
+            </description>
+        </release>
+        <release version="259.241220.0" date="2024-12-23">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-259.241220.0
+                </p>
+            </description>
+        </release>
+        <release version="253.241126.2" date="2024-12-02">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-253.241126.2
+                </p>
+            </description>
+        </release>
+        <release version="252.241122.0" date="2024-11-25">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-252.241122.0
+                </p>
+            </description>
+        </release>
+        <release version="251.241108.0" date="2024-11-11">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-251.241108.0
+                </p>
+            </description>
+        </release>
+        <release version="250.241025.0" date="2024-10-30">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-250.241025.0
+                </p>
+            </description>
+        </release>
+        <release version="246.241004.0" date="2024-10-07">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-246.241004.0
+                </p>
+            </description>
+        </release>
+        <release version="244.240913.1" date="2024-09-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240913.1
+                </p>
+            </description>
+        </release>
+        <release version="244.240903.0" date="2024-09-03">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240903.0
+                </p>
+            </description>
+        </release>
+        <release version="244.240830.0" date="2024-09-02">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-244.240830.0
+                </p>
+            </description>
+        </release>
+        <release version="240.240816.0" date="2024-08-16">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-240.240816.0
+                </p>
+            </description>
+        </release>
+        <release version="235.240718.0" date="2024-07-19">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240718.0
+                </p>
+            </description>
+        </release>
+        <release version="235.240712.0" date="2024-07-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240712.0
+                </p>
+            </description>
+        </release>
+        <release version="235.240709.0" date="2024-07-11">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-235.240709.0
+                </p>
+            </description>
+        </release>
+        <release version="234.240627.0" date="2024-07-03">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-234.240627.0
+                </p>
+            </description>
+        </release>
+        <release version="232.240626.0" date="2024-06-26">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-232.240626.0
+                </p>
+            </description>
+        </release>
+        <release version="230.240603.0" date="2024-06-04">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-230.240603.0
+                </p>
+            </description>
+        </release>
+        <release version="229.240514.1" date="2024-05-14">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-229.240514.1
+                </p>
+            </description>
+        </release>
+        <release version="229.240513.0" date="2024-05-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-229.240513.0
+                </p>
+            </description>
+        </release>
+        <release version="227.240502.0" date="2024-05-02">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240502.0
+                </p>
+            </description>
+        </release>
+        <release version="227.240429.0" date="2024-04-29">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-227.240429.0
+                </p>
+            </description>
+        </release>
+        <release version="220.240411.0" date="2024-04-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240411.0
+                </p>
+            </description>
+        </release>
+        <release version="220.240408.0" date="2024-04-09">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240408.0
+                </p>
+            </description>
+        </release>
+        <release version="220.240403.0" date="2024-04-04">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240403.0
+                </p>
+            </description>
+        </release>
+        <release version="220.240321.0" date="2024-03-21">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240321.0
+                </p>
+            </description>
+        </release>
+        <release version="220.240319.1" date="2024-03-19">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-220.240319.1
+                </p>
+            </description>
+        </release>
+        <release version="218.240307.1" date="2024-03-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240307.1
+                </p>
+            </description>
+        </release>
+        <release version="218.240219.0" date="2024-02-20">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-218.240219.0
+                </p>
+            </description>
+        </release>
+        <release version="3.122.5" date="2024-02-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.5
+                </p>
+            </description>
+        </release>
+        <release version="3.122.4" date="2024-02-09">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.4
+                </p>
+            </description>
+        </release>
+        <release version="3.122.3" date="2024-02-09">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.122.3
+                </p>
+            </description>
+        </release>
+        <release version="3.121.4" date="2024-01-24">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.121.4
+                </p>
+            </description>
+        </release>
+        <release version="3.120.6" date="2024-01-17">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.120.6
+                </p>
+            </description>
+        </release>
+        <release version="3.119.10" date="2023-12-21">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.10
+                </p>
+            </description>
+        </release>
+        <release version="3.119.8" date="2023-12-18">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.8
+                </p>
+            </description>
+        </release>
+        <release version="3.119.3" date="2023-12-05">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.119.3
+                </p>
+            </description>
+        </release>
+        <release version="3.118.30" date="2023-11-15">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.30
+                </p>
+            </description>
+        </release>
+        <release version="3.118.27" date="2023-11-10">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.27
+                </p>
+            </description>
+        </release>
+        <release version="3.118.25" date="2023-11-07">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.25
+                </p>
+            </description>
+        </release>
+        <release version="3.118.22" date="2023-10-26">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.22
+                </p>
+            </description>
+        </release>
+        <release version="3.118.13" date="2023-10-06">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.13
+                </p>
+            </description>
+        </release>
+        <release version="3.118.12-1" date="2023-09-28">
+            <description>
+                <ul>
+                    <li>Fixed secret storage issues</li>
+                    <li>Enabled Wayland support</li>
+                </ul>
+                <p>
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.12
+                </p>
+            </description>
+        </release>
+        <release version="3.118.12" date="2023-09-26">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.12
+                </p>
+            </description>
+        </release>
+        <release version="3.118.8" date="2023-09-19">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.8
+                </p>
+            </description>
+        </release>
+        <release version="3.118.7" date="2023-09-14">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.7
+                </p>
+            </description>
+        </release>
+        <release version="3.118.6" date="2023-09-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.118.6
+                </p>
+            </description>
+        </release>
+        <release version="3.116.8" date="2023-08-10">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.116.8
+                </p>
+            </description>
+        </release>
+        <release version="3.115.2" date="2023-07-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.115.2
+                </p>
+            </description>
+        </release>
+        <release version="3.113.3" date="2023-06-07">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.113.3
+                </p>
+            </description>
+        </release>
+        <release version="3.112.6" date="2023-04-06">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.112.6
+                </p>
+            </description>
+        </release>
+        <release version="3.112.5" date="2023-04-03">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.112.5
+                </p>
+            </description>
+        </release>
+        <release version="3.110.1" date="2023-03-13">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.1
+                </p>
+            </description>
+        </release>
+        <release version="3.110.0" date="2023-03-02">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.110.0
+                </p>
+            </description>
+        </release>
+        <release version="3.109.13" date="2023-03-01">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.109.13
+                </p>
+            </description>
+        </release>
+        <release version="3.109.4" date="2023-02-17">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.109.4
+                </p>
+            </description>
+        </release>
+        <release version="3.108.12" date="2023-02-03">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.108.12
+                </p>
+            </description>
+        </release>
+        <release version="3.108.10" date="2023-01-30">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.108.10
+                </p>
+            </description>
+        </release>
+        <release version="3.106.4" date="2022-12-22">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.106.4
+                </p>
+            </description>
+        </release>
+        <release version="3.105.9" date="2022-12-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.105.9
+                </p>
+            </description>
+        </release>
+        <release version="3.104.5" date="2022-11-15">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.104.5
+                </p>
+            </description>
+        </release>
+        <release version="3.102.3" date="2022-10-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.102.3
+                </p>
+            </description>
+        </release>
+        <release version="3.98.20" date="2022-08-08">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.20
+                </p>
+            </description>
+        </release>
+        <release version="3.98.17" date="2022-08-02">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.17
+                </p>
+            </description>
+        </release>
+        <release version="3.98.15" date="2022-07-26">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.15
+                </p>
+            </description>
+        </release>
+        <release version="3.98.14" date="2022-07-25">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.14
+                </p>
+            </description>
+        </release>
+        <release version="3.98.12" date="2022-07-18">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.12
+                </p>
+            </description>
+        </release>
+        <release version="3.98.4" date="2022-06-28">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.4
+                </p>
+            </description>
+        </release>
+        <release version="3.98.1" date="2022-06-24">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.1
+                </p>
+            </description>
+        </release>
+        <release version="3.98.0" date="2022-06-15">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.98.0
+                </p>
+            </description>
+        </release>
+        <release version="3.96.13" date="2022-06-08">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.13
+                </p>
+            </description>
+        </release>
+        <release version="3.96.11" date="2022-05-31">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.11
+                </p>
+            </description>
+        </release>
+        <release version="3.96.7" date="2022-05-27">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.7
+                </p>
+            </description>
+        </release>
+        <release version="3.96.6" date="2022-05-19">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.6
+                </p>
+            </description>
+        </release>
+        <release version="3.96.3" date="2022-05-09">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.96.3
+                </p>
+            </description>
+        </release>
+        <release version="3.95.4" date="2022-04-21">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.95.4
+                </p>
+            </description>
+        </release>
+        <release version="3.94.9" date="2022-04-12">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.9
+                </p>
+            </description>
+        </release>
+        <release version="3.94.2" date="2022-03-24">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.94.2
+                </p>
+            </description>
+        </release>
+        <release version="3.93.6" date="2022-03-10">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.93.6
+                </p>
+            </description>
+        </release>
+        <release version="3.93.5" date="2022-03-07">
+            <description>
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-desktop-release-3.93.5
+                </p>
+            </description>
+        </release>
         <release version="3.91.10-1" date="2022-02-09">
             <description>
-                Patch for the dbus issue and new runtime
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+                <p>
+                    Patch for the dbus issue and new runtime
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+                </p>
             </description>
         </release>
         <release version="3.91.10" date="2022-02-09">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.91.10
+                </p>
             </description>
         </release>
         <release version="3.91.9" date="2022-02-07">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.9
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.91.9
+                </p>
             </description>
         </release>
         <release version="3.91.6" date="2022-01-31">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.91.6
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.91.6
+                </p>
             </description>
         </release>
         <release version="3.89.25" date="2021-12-15">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.25
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.89.25
+                </p>
             </description>
         </release>
         <release version="3.89.23" date="2021-12-02">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.23
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.89.23
+                </p>
             </description>
         </release>
         <release version="3.89.12" date="2021-11-08">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.12
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.89.12
+                </p>
             </description>
         </release>
         <release version="3.89.9" date="2021-10-28">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.9
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.89.9
+                </p>
             </description>
         </release>
         <release version="3.89.5" date="2021-10-21">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.89.5
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.89.5
+                </p>
             </description>
         </release>
         <release version="3.88.3" date="2021-09-22">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.88.3
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.88.3
+                </p>
             </description>
         </release>
         <release version="3.88.0" date="2021-09-17">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.88.0
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.88.0
+                </p>
             </description>
         </release>
         <release version="3.87.2" date="2021-09-06">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.87.2
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.87.2
+                </p>
             </description>
         </release>
         <release version="3.86.3" date="2021-08-20">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.86.3
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.86.3
+                </p>
             </description>
         </release>
         <release version="3.85.10" date="2021-08-06">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.85.10
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.85.10
+                </p>
             </description>
         </release>
         <release version="3.85.3" date="2021-07-16">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.85.3
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.85.3
+                </p>
             </description>
         </release>
         <release version="3.84.11" date="2021-07-07">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.11
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.84.11
+                </p>
             </description>
         </release>
         <release version="3.84.10" date="2021-07-06">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.10
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.84.10
+                </p>
             </description>
         </release>
         <release version="3.84.7" date="2021-06-25">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.7
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.84.7
+                </p>
             </description>
         </release>
         <release version="3.84.4" date="2021-06-04">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.4
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.84.4
+                </p>
             </description>
         </release>
         <release version="3.84.0" date="2021-05-28">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.84.0
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.84.0
+                </p>
             </description>
         </release>
         <release version="3.83.7" date="2021-05-25">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.83.7
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.83.7
+                </p>
             </description>
         </release>
         <release version="3.83.2" date="2021-04-29">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.83.2
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.83.2
+                </p>
             </description>
         </release>
         <release version="3.82.17" date="2021-04-09">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.17
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.82.17
+                </p>
             </description>
         </release>
         <release version="3.82.11" date="2021-03-17">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.11
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.82.11
+                </p>
             </description>
         </release>
         <release version="3.82.8" date="2021-03-10">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.8
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.82.8
+                </p>
             </description>
         </release>
         <release version="3.82.7" date="2021-03-08">
@@ -697,26 +1053,34 @@
         </release>
         <release version="3.82.4" date="2021-03-02">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.4
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.82.4
+                </p>
             </description>
         </release>
         <release version="3.82.1" date="2021-02-25">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.82.1
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.82.1
+                </p>
             </description>
         </release>
         <release version="3.81.8" date="2021-02-12">
             <description>
-                What's new
+                <p>
+                    What's new
 
-                Change bundling of the app to make load faster #2671
-                Make sender confirm large number of recipients in "to" #2620
+                    Change bundling of the app to make load faster #2671
+                    Make sender confirm large number of recipients in "to" #2620
 
-                Bufixes
+                    Bufixes
 
-                Fix cancelling delete action #2684
-                Fix export skipping some emails #2637
-                Fix multiselect/delete on mobile #2700 #2701 #2117
+                    Fix cancelling delete action #2684
+                    Fix export skipping some emails #2637
+                    Fix multiselect/delete on mobile #2700 #2701 #2117
+                </p>
             </description>
         </release>
         <release version="3.81.3" date="2021-02-03">
@@ -858,7 +1222,10 @@
         </release>
         <release version="3.77.1" date="2020-10-27">
             <description>
-                https://github.com/tutao/tutanota/releases/tutanota-release-3.77.1
+                <p>
+                    Check out the release notes on GitHub:
+                    https://github.com/tutao/tutanota/releases/tutanota-release-3.77.1
+                </p>
             </description>
         </release>
         <release version="3.50.10" date="2019-04-25">

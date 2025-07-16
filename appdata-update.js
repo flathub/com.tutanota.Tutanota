@@ -8,7 +8,10 @@ const newRelease = `
     <releases>
       <release version="${version}" date="${date}">
         <description>
-          ${url}
+	  <p>
+	    Check out the release notes on GitHub:
+        ${url}
+	  </p>
         </description>
       </release>`
 
