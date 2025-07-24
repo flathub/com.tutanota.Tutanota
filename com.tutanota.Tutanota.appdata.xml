@@ -61,7 +61,16 @@
     <content_rating type="oars-1.1"/>
 
 
+    
     <releases>
+      <release version="299.250722.0" date="2025-07-24">
+        <description>
+	  <p>
+	    Check out the release notes on GitHub:
+        https://github.com/tutao/tutanota/releases/tutanota-desktop-release-299.250722.0
+	  </p>
+        </description>
+      </release>
         <release version="299.250715.0" date="2025-07-16">
             <description>
                 <p>
