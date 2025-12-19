@@ -62,7 +62,16 @@
     
     
     
+    
     <releases>
+      <release version="317.251217.0" date="2025-12-18">
+        <description>
+	  <p>
+	    Check out the release notes on GitHub:
+        https://github.com/tutao/tutanota/releases/tutanota-desktop-release-317.251217.0
+	  </p>
+        </description>
+      </release>
       <release version="315.251204.0" date="2025-12-04">
         <description>
 	  <p>
