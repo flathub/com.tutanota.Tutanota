@@ -35,29 +35,6 @@ const manifest = {
 	],
 	"modules": [
 		{
-			"name": "libsecret",
-			"buildsystem": "meson",
-			"config-opts": [
-				"-Dmanpage=false",
-				"-Dvapi=false",
-				"-Dgtk_doc=false",
-				"-Dintrospection=false"
-			],
-			"cleanup": [
-				"/bin",
-				"/include",
-				"/lib/pkgconfig",
-				"/share/man"
-			],
-			"sources": [
-				{
-					"type": "git",
-					"url": "https://github.com/tutao/libsecret.git",
-					"commit": "3d18f7e928d6de69457ec3d18d5ca84923191957"
-				}
-			]
-		},
-		{
 			"name": "tutanota",
 			"buildsystem": "simple",
 			"sources": [
