@@ -22,16 +22,7 @@ const manifest = {
 		"--talk-name=org.freedesktop.secrets",
 		"--talk-name=org.kde.StatusNotifierWatcher",
 		"--env=TMPDIR=/var/tmp",
-		"--device=all",
-		"--filesystem=host:ro",
-		"--filesystem=xdg-desktop",
-		"--filesystem=xdg-documents",
-		"--filesystem=xdg-download",
-		"--filesystem=xdg-music",
-		"--filesystem=xdg-pictures",
-		"--filesystem=xdg-public-share",
-		"--filesystem=xdg-videos",
-		"--filesystem=xdg-run/keyring"
+		"--device=all"
 	],
 	"modules": [
 		{
