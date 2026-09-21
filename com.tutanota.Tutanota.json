@@ -59,7 +59,7 @@
         {
           "dest-filename": "tutanota-unpacked-linux.tar.gz",
           "type": "file",
-          "sha256": "6747a55234c3a775670d5067449665e0afb377de69d6b3c1ccc2181162594cbf",
+          "sha256": "70d50ac66b2485e126b2c3f46ddf924b20219d00d724ae74e34da0f9a81c788e",
           "url": "https://github.com/tutao/tutanota/releases/download/tutanota-desktop-release-360.260917.0/tutanota-desktop-360.260917.0-unpacked-linux.tar.gz"
         },
         {
