@@ -14,7 +14,6 @@ const manifest = {
 	"separate-locales": false,
 	"finish-args": [
 		"--share=ipc",
-		"--device=dri",
 		"--socket=wayland",
 		"--socket=fallback-x11",
 		"--socket=pulseaudio",
