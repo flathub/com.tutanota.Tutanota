@@ -63,7 +63,33 @@
     
     
     
+    
+    
     <releases>
+      <release version="365.261103.0" date="2026-11-04">
+        <description>
+	  <p>
+	    Check out the release notes on GitHub:
+        https://github.com/tutao/tutanota/releases/tutanota-desktop-release-365.261103.0
+	  </p>
+        </description>
+      </release>
+      <release version="365.261103.0" date="2026-11-04">
+        <description>
+	  <p>
+	    Check out the release notes on GitHub:
+        https://github.com/tutao/tutanota/releases/tutanota-desktop-release-365.261103.0
+	  </p>
+        </description>
+        </release>
+        <release version="365.261030.0" date="2026-11-04">
+        <description>
+	  <p>
+	    Check out the release notes on GitHub:
+        https://github.com/tutao/tutanota/releases/tutanota-desktop-release-365.261030.0
+	  </p>
+        </description>
+      </release>
       <release version="360.260922.0" date="2026-09-28">
         <description>
 	  <p>
